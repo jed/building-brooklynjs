@@ -99,7 +99,7 @@ So instead of trying to minimize the downtime, we masked it with music. Starting
 
 ```
        + = = = = = = = = = = = = = = = = = = = +
-       |             musical interludes        |
+       |          musical interludes           |
 +-------+ +----+ +----+ +----+ +----+ +----+ +-----------+
 | intro | |talk| |talk| |talk| |talk| |talk| | bevera.js |
 +-------+ +----+ +----+ +----+ +----+ +----+ +-----------+
@@ -122,7 +122,7 @@ Five months into its existence in March 2014, BrooklynJS had neared its final fo
 
 ```
                              + - - - - - - - - - - - - - - - - - - - +
-                             |             musical interludes        |
+                             |          musical interludes           |
 +===================+ +-------+ +----+ +----+ +----+ +----+ +----+ +-----------+
 |  boroughgramming  | | intro | |talk| |talk| |talk| |talk| |talk| | bevera.js |
 +===================+ +-------+ +----+ +----+ +----+ +----+ +----+ +-----------+
@@ -130,7 +130,9 @@ Five months into its existence in March 2014, BrooklynJS had neared its final fo
                              + - - - - - - - - - - - - - - - - - - - +
 ```
 
-Boroughgramming is an all-day coworking session that starts with bottomless [Oslo Coffee][oslocoffee] and [a catered lunch][bgramminglunch], and ends with the main BrooklynJS event. You bring a laptop and something to work on, and we bring WiFi, outlets, chairs, and tables.
+Boroughgramming is an all-day coworking session that starts at 10am with bottomless [Oslo Coffee][oslocoffee] and [a catered lunch][bgramminglunch], and ends with the main BrooklynJS event. Attendees bring a laptop and something to work on, and we bring WiFi, outlets, chairs, and tables. We usually take a quick break after lunch to go around the room and talk about what we're working on, and duck out for ice cream at [Van Leeuwen][vanleeuwen] in the afternoon. Usually the crowd is split between folks working remotely and folks working on open source or side projects. It's a great place to swap project advice, since there's a good chance that there's a developer there who's deeper into your platform than you are.
+
+For me, Boroughgramming is where the BrooklynJS community really started to gel. Since attendees are equal parts regulars and first-timers, the vibe is familiar without being stale, comfortable without being clubby. As enjoyable as I find the evening BrooklynJS event, the more relaxed nature of Boroughgramming makes it a better venue to seek project feedback and get honest opinions on new libraries and frameworks.
 
 Sponsors
 --------
@@ -144,6 +146,19 @@ TODO
 
 Tickets
 -------
+
+TODO
+
+Speakers
+--------
+
+TODO
+
+Organizers
+----------
+
+Siblings
+--------
 
 TODO
 
@@ -219,3 +234,4 @@ TODO
 [oslocoffee]: http://www.oslocoffee.com
 [bgramminglunch]: https://twitter.com/brooklyn_js/status/578591024076967936
 [budgetjs]: https://github.com/brooklynjs/brooklynjs.github.io/blob/master/budget.js
+[vanleeuwen]: http://www.vanleeuwenicecream.com/

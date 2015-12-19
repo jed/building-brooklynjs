@@ -12,7 +12,7 @@ My BrooklynJS story begins in 10 timezones away in Tokyo, where I was living in 
 
 Though I was a bit sad to leave one of my favorite cities in the world, I was also excited to live in a city where I could hobnob with JavaScript heroes; [John Resig][jeresig] in Park Slope, [Jeremy Ashkenas][jashkenas] in Brooklyn Heights, and [Ryan Dahl][ryah] in Williamsburg.
 
-But by the time I arrived, [Brooklyn's JavaScript meetup][bkjs] had come to an end after [its organizer][marcocarag] moved to Queens (or maybe because they couldn't top a [Brian Leroux][brianleroux] [drinkup][bkjs2013]?), and the [Manhattan equivalent][nycjs], which I had [once attended][nycjs2010] and enjoyed three years prior, had been taken over by a Sencha Touch meetup complete with the ultimate in event code smells, ["webinars"][nycjswebinar].
+But by the time I arrived, [Brooklyn's JavaScript meetup][bkjs] had come to an end after [its organizer][marcocarag] left the borough (or maybe because they couldn't top a [Brian Leroux][brianleroux] [drinkup][bkjs2013]?), and the [Manhattan equivalent][nycjs], which I had [once attended][nycjs2010] and enjoyed three years prior, had been taken over by a Sencha Touch meetup complete with the ultimate in event code smells, ["webinars"][nycjswebinar].
 
 So aside from a handful of small company-specific events, there wasn't much of a local JavaScript scene in New York. But I knew there was elsewhere; shortly after landing in New York, I started a conference crawl that took me to some amazing events over the summer of 2013:
 
@@ -130,17 +130,61 @@ Five months into its existence in March 2014, BrooklynJS had neared its final fo
                              + - - - - - - - - - - - - - - - - - - - +
 ```
 
-Boroughgramming is an all-day coworking session that starts at 10am with bottomless [Oslo Coffee][oslocoffee] and [a catered lunch][bgramminglunch], and ends with the main BrooklynJS event. Attendees bring a laptop and something to work on, and we bring WiFi, outlets, chairs, and tables. We usually take a quick break after lunch to go around the room and talk about what we're working on, and duck out for ice cream at [Van Leeuwen][vanleeuwen] in the afternoon. Usually the crowd is split between folks working remotely and folks working on open source or side projects. It's a great place to swap project advice, since there's a good chance that there's a developer there who's deeper into your platform than you are.
+Boroughgramming is an all-day coworking session that starts at 10am with bottomless [Oslo Coffee][oslocoffee] and [a catered lunch][bgramminglunch], and ends with the main BrooklynJS event. Attendees bring a laptop and something to work on, and we bring WiFi, outlets, chairs, and tables. We take a quick break after lunch to go around the room and talk about what we're working on, and duck out for ice cream at [Van Leeuwen][vanleeuwen] in the afternoon. Usually the crowd is split between folks working remotely and folks working on open source or side projects. It's a great place to swap project advice, since there's a good chance that there's a developer there who's deeper into your platform than you are.
 
-For me, Boroughgramming is where the BrooklynJS community really started to gel. Since attendees are equal parts regulars and first-timers, the vibe is familiar without being stale, comfortable without being clubby. As enjoyable as I find the evening BrooklynJS event, the more relaxed nature of Boroughgramming makes it a better venue to seek project feedback and get honest opinions on new libraries and frameworks.
+For me, Boroughgramming is where the BrooklynJS community really started to gel. Since attendees are equal parts regulars and first-timers, the vibe is familiar without being stale, comfortable without being clubby. As enjoyable as I find the intensity of BrooklynJS, the more casual nature of Boroughgramming makes it a better venue to seek project feedback and get honest opinions on new libraries and frameworks.
+
+Fundraising
+-----------
+
+[ScriptEd][scriptedorg]
 
 Sponsors
 --------
 
-TODO
+<img width=32 height=32 src='https://twitter.com/github/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/crushlovely/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/nodejitsu/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/digitalocean/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/harvest/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/etsy/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/hugeinc/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/bocoup/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/tumblreng/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/sfxii/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/spotify/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/twilio/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/chartbeat/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/policymic/profile_image?size=original'>
+<img width=32 height=32 src='https://mdn.stonybrook.edu/files/2015/08/yuzu-logo-27f8zu6.png'>
+<img width=32 height=32 src='https://twitter.com/fivethirtyeight/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/nytdevs/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/bloomberg/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/empirejs/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/10up/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/jibe/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/newyorker/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/barkbox/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/sefaira/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/pivotal/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/dropbox/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/genius/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/cripto/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/autodesk/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/thehackerati/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/oscarhealth/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/namelyhr/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/classpass/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/transloadit/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/asana/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/blockchain/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/mozilla/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/adfin/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/nymag/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/ride/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/_relayfm/profile_image?size=original'>
+<img width=32 height=32 src='https://twitter.com/StrideDev/profile_image?size=original'>
 
-Sponsees
---------
 
 TODO
 
@@ -157,10 +201,17 @@ TODO
 Organizers
 ----------
 
+As BrooklynJS approached its first birthday, I was getting a little burnt out. So I reached out for help [orbitaltalk]
+
+[orbitaltalk]: http://orbital.nyc/2015
+
 Siblings
 --------
 
-TODO
+[ManhattanJS][manhattanjs]
+[QueensJS][queensjs]
+[JerseyScript][jerseyscript]
+[Nodebots NYC][nodebots]
 
 [brooklynjs]: http://brooklynjs.com
 [jedschmidt]: https://twitter.com/jedschmidt
@@ -235,3 +286,8 @@ TODO
 [bgramminglunch]: https://twitter.com/brooklyn_js/status/578591024076967936
 [budgetjs]: https://github.com/brooklynjs/brooklynjs.github.io/blob/master/budget.js
 [vanleeuwen]: http://www.vanleeuwenicecream.com/
+[scriptedorg]: https://www.scripted.org
+[manhattanjs]: http://manhattanjs.com
+[queensjs]: http://www.meetup.com/QueensJS
+[jerseyscript]: http://jerseyscript.github.io
+[nodebots]: http://nodebots.github.io/nodebots.nyc

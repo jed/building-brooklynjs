@@ -143,10 +143,14 @@ We looked at several organizations, but soon found a perfect fit in [ScriptEd][s
 
 Within two months, ScriptEd became our exclusive sponsee, and two years later, we'd raised more than $30k to help their efforts. While this is decent for a community effort, it's probably not much when compared to donations from deeper-pocketed corporate sponsors. But one way that organizations like ours can contribute more meaningfully is by introducing enthusiastic, like-minded developers within our community to volunteer as teachers in nearby schools.
 
-The ability to build a modestly reliable stream of contributions has also allowed us to give in ways that reinforce our values as a community. For example, BrooklynJS was a top contributor to the [The Meyer Family's Fundraiser][stbaldricks] in honor of the daughter of longtime web contributor [Eric Meyer][meyerweb]. More recently and close to home, after JSConf announced its last call [due to health issues][aboutlastcall], BrooklynJS donated [a park bench][bench] to the [Town of Herndon][herndon] on behalf of the JS community in honor of its organizers, The Williams family.
+The ability to build a modestly reliable stream of contributions has also allowed us to give in ways that reinforce our values as a community. For example, BrooklynJS was a top contributor to the [The Meyer Family's Fundraiser][stbaldricks] in honor of the daughter of longtime web contributor [Eric Meyer][meyerweb]. More recently and close to home, after JSConf announced it was ending [due to health issues][aboutlastcall], BrooklynJS donated [a park bench][bench] to the [Town of Herndon][herndon] on behalf of the JS community in honor the contribution of its organizers, the Williams family.
 
 Sponsors
 --------
+
+One of the unexpected effects of dedicating sponsorship to an amazing organization like ScriptEd is that it helped focus our efforts, by quantifying our impact. So, instead of simply aiming to break even, we started actively looking for opportunities to raise funds. Fortunately, the seller's job market in tech made that much easier, as the value of web developer attention is at an all-time high.
+
+These dynamics allowed us to keep ticket prices below cost for the event itself, so that donations could be covered entirely by sponsors. The setup that we settled on was three sponsorship slots during the event introduction, at $500 per slot. Each slot allows the developers (recruiters are not allowed at BrooklynJS) representing the sponsor to come up during the intro and pitch the audience for two minutes.
 
 <a href="https://twitter.com/github"><img width=32 height=32 src='https://twitter.com/github/profile_image?size=original'></a>
 <a href="https://twitter.com/crushlovely"><img width=32 height=32 src='https://twitter.com/crushlovely/profile_image?size=original'></a>
@@ -162,7 +166,7 @@ Sponsors
 <a href="https://twitter.com/twilio"><img width=32 height=32 src='https://twitter.com/twilio/profile_image?size=original'></a>
 <a href="https://twitter.com/chartbeat"><img width=32 height=32 src='https://twitter.com/chartbeat/profile_image?size=original'></a>
 <a href="https://twitter.com/policymic"><img width=32 height=32 src='https://twitter.com/policymic/profile_image?size=original'></a>
-<a href="#"><img width=32 height=32 src='https://mdn.stonybrook.edu/files/2015/08/yuzu-logo-27f8zu6.png'></a>
+<a href="https://yuzu.com"><img width=32 height=32 src='https://mdn.stonybrook.edu/files/2015/08/yuzu-logo-27f8zu6.png'></a>
 <a href="https://twitter.com/fivethirtyeight"><img width=32 height=32 src='https://twitter.com/fivethirtyeight/profile_image?size=original'></a>
 <a href="https://twitter.com/nytdevs"><img width=32 height=32 src='https://twitter.com/nytdevs/profile_image?size=original'></a>
 <a href="https://twitter.com/bloomberg"><img width=32 height=32 src='https://twitter.com/bloomberg/profile_image?size=original'></a>
@@ -175,7 +179,7 @@ Sponsors
 <a href="https://twitter.com/pivotal"><img width=32 height=32 src='https://twitter.com/pivotal/profile_image?size=original'></a>
 <a href="https://twitter.com/dropbox"><img width=32 height=32 src='https://twitter.com/dropbox/profile_image?size=original'></a>
 <a href="https://twitter.com/genius"><img width=32 height=32 src='https://twitter.com/genius/profile_image?size=original'></a>
-<a href="https://twitter.com/whale_eat_squid"><img width=32 height=32 src='https://twitter.com/whale_eat_squid/profile_image?size=original'></a>
+<a href="http://www.scripto.cc"><img width=32 height=32 src='https://twitter.com/whale_eat_squid/profile_image?size=original'></a>
 <a href="https://twitter.com/autodesk"><img width=32 height=32 src='https://twitter.com/autodesk/profile_image?size=original'></a>
 <a href="https://twitter.com/thehackerati"><img width=32 height=32 src='https://twitter.com/thehackerati/profile_image?size=original'></a>
 <a href="https://twitter.com/oscarhealth"><img width=32 height=32 src='https://twitter.com/oscarhealth/profile_image?size=original'></a>
@@ -190,8 +194,6 @@ Sponsors
 <a href="https://twitter.com/ride"><img width=32 height=32 src='https://twitter.com/ride/profile_image?size=original'></a>
 <a href="https://twitter.com/_relayfm"><img width=32 height=32 src='https://twitter.com/_relayfm/profile_image?size=original'></a>
 <a href="https://twitter.com/StrideDev"><img width=32 height=32 src='https://twitter.com/StrideDev/profile_image?size=original'></a>
-
-TODO
 
 Tickets
 -------

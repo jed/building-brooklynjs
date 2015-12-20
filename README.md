@@ -143,11 +143,7 @@ We looked at several organizations, but soon found a perfect fit in [ScriptEd][s
 
 Within two months, ScriptEd became our exclusive sponsee, and two years later, we'd raised more than $30k to help their efforts. While this is decent for a community effort, it's probably not much when compared to donations from deeper-pocketed corporate sponsors. But one way that organizations like ours can contribute more meaningfully is by introducing enthusiastic, like-minded developers within our community to volunteer as teachers in nearby schools.
 
-The ability to build a modestly reliable stream of contributions has also allowed us to give in ways that reinforce our values as a community. For example, BrooklynJS was a top contributor to the [The Meyer Family's Fundraiser][stbaldricks] in honor of [Eric Meyer][meyerweb]'s daughter. More recently and close to home, after JSConf announced its last call [due to health issues][aboutlastcall], BrooklynJS donated [a park bench][bench] to the [Town of Herndon][herndon] on behalf of the JS community in honor of Chris William's family.
-
-[herndon]: http://www.herndon-va.gov
-[aboutlastcall]: http://lastcall.jsconf.us/about.html
-[bench]: http://brooklynjs.com/loves/jsconf
+The ability to build a modestly reliable stream of contributions has also allowed us to give in ways that reinforce our values as a community. For example, BrooklynJS was a top contributor to the [The Meyer Family's Fundraiser][stbaldricks] in honor of the daughter of longtime web contributor [Eric Meyer][meyerweb]. More recently and close to home, after JSConf announced its last call [due to health issues][aboutlastcall], BrooklynJS donated [a park bench][bench] to the [Town of Herndon][herndon] on behalf of the JS community in honor of its organizers, The Williams family.
 
 Sponsors
 --------
@@ -404,3 +400,6 @@ Siblings
 [scriptedmission]: https://www.scripted.org/our-mission/
 [stbaldricks]: https://www.stbaldricks.org/fundraisers/mypage/539/2014
 [meyerweb]: https://twitter.com/meyerweb
+[herndon]: http://www.herndon-va.gov
+[aboutlastcall]: http://lastcall.jsconf.us/about.html
+[bench]: http://brooklynjs.com/loves/jsconf

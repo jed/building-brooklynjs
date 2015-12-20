@@ -134,10 +134,20 @@ Boroughgramming is an all-day coworking session that starts at 10am with bottoml
 
 For me, Boroughgramming is where the BrooklynJS community really started to gel. Since attendees are equal parts regulars and first-timers, the vibe is familiar without being stale, comfortable without being clubby. As enjoyable as I find the intensity of BrooklynJS, the more casual nature of Boroughgramming makes it a better venue to seek project feedback and get honest opinions on new libraries and frameworks.
 
-Fundraising
------------
+Sponsees
+--------
 
-[ScriptEd][scriptedorg]
+Like most community-run meetups, profit is not a goal of BrooklynJS. Since holding on to money we've made from tickets or sponsorships would just complicate my taxes, I want to get it off my books as soon as possible.
+
+We looked at several organizations, but soon found a perfect fit in [ScriptEd][scriptedorg], a young non-profit here in the city. Their mission is, [in their words][scriptedmission], to equip "students in under-resourced schools with the fundamental coding skills and professional experiences that together create access to careers in technology". Since developer scarcity is one of the primary reasons tech events like BrooklynJS can attract sponsorship dollars in the first place, it seems right to channel those dollars back to not just creating more developers, but helping broaden the pool of potential developers.
+
+Within two months, ScriptEd became our exclusive sponsee, and two years later, we'd raised more than $30k to help their efforts. While this is decent for a community effort, it's probably not much when compared to donations from deeper-pocketed corporate sponsors. But one way that organizations like ours can contribute more meaningfully is by introducing enthusiastic, like-minded developers within our community to volunteer as teachers in nearby schools.
+
+The ability to build a modestly reliable stream of contributions has also allowed us to give in ways that reinforce our values as a community. For example, BrooklynJS was a top contributor to the [The Meyer Family's Fundraiser][stbaldricks] in honor of [Eric Meyer][meyerweb]'s daughter. More recently and close to home, after JSConf announced its last call [due to health issues][aboutlastcall], BrooklynJS donated [a park bench][bench] to the [Town of Herndon][herndon] on behalf of the JS community in honor of Chris William's family.
+
+[herndon]: http://www.herndon-va.gov
+[aboutlastcall]: http://lastcall.jsconf.us/about.html
+[bench]: http://brooklynjs.com/loves/jsconf
 
 Sponsors
 --------
@@ -169,7 +179,7 @@ Sponsors
 <a href="https://twitter.com/pivotal"><img width=32 height=32 src='https://twitter.com/pivotal/profile_image?size=original'></a>
 <a href="https://twitter.com/dropbox"><img width=32 height=32 src='https://twitter.com/dropbox/profile_image?size=original'></a>
 <a href="https://twitter.com/genius"><img width=32 height=32 src='https://twitter.com/genius/profile_image?size=original'></a>
-<a href="https://twitter.com/cripto"><img width=32 height=32 src='https://twitter.com/cripto/profile_image?size=original'></a>
+<a href="https://twitter.com/whale_eat_squid"><img width=32 height=32 src='https://twitter.com/whale_eat_squid/profile_image?size=original'></a>
 <a href="https://twitter.com/autodesk"><img width=32 height=32 src='https://twitter.com/autodesk/profile_image?size=original'></a>
 <a href="https://twitter.com/thehackerati"><img width=32 height=32 src='https://twitter.com/thehackerati/profile_image?size=original'></a>
 <a href="https://twitter.com/oscarhealth"><img width=32 height=32 src='https://twitter.com/oscarhealth/profile_image?size=original'></a>
@@ -184,7 +194,6 @@ Sponsors
 <a href="https://twitter.com/ride"><img width=32 height=32 src='https://twitter.com/ride/profile_image?size=original'></a>
 <a href="https://twitter.com/_relayfm"><img width=32 height=32 src='https://twitter.com/_relayfm/profile_image?size=original'></a>
 <a href="https://twitter.com/StrideDev"><img width=32 height=32 src='https://twitter.com/StrideDev/profile_image?size=original'></a>
-
 
 TODO
 
@@ -392,3 +401,6 @@ Siblings
 [queensjs]: http://www.meetup.com/QueensJS
 [jerseyscript]: http://jerseyscript.github.io
 [nodebots]: http://nodebots.github.io/nodebots.nyc
+[scriptedmission]: https://www.scripted.org/our-mission/
+[stbaldricks]: https://www.stbaldricks.org/fundraisers/mypage/539/2014
+[meyerweb]: https://twitter.com/meyerweb

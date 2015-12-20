@@ -45,7 +45,7 @@ More specifically to our setup, 61 Local has been an incredible partner. From [t
 Talks
 -----
 
-The core of a BrooklynJS event consists of five lightning talks of ten minutes each, preceeded by an intro in which the emcees give some context for the event.
+The core of a BrooklynJS event consists of five lightning talks of ten minutes each, preceded by an intro in which the emcees give some context for the event.
 
 ```
 +-------+ +====+ +====+ +====+ +====+ +====+
@@ -76,7 +76,7 @@ Another one of The Good Parts™ of a JSConf event that we wanted to emulate was
 
 Our choice of venue made this easy, as talks take place upstairs from the bar, far enough to be out of earshot but still in the same building. With the usual conference room meetup format, presentations and conversation can only happen in serial, which is unfortunate when many attendees [come for the social][nolanbeverajs].
 
-While we had intended only to give folks an opportunity to mingle after the talks, having a less structured mode of interaction came with other benefits. For example, we were able to avoid the inevitable attendee attrition that takes place at meetups in which attendees post-game at a separate venue. Having a social track also makes it easier for us to accomodate folks that had to stay late at work or couldn't get a ticket but still want to hang out.
+While we had intended only to give folks an opportunity to mingle after the talks, having a less structured mode of interaction came with other benefits. For example, we were able to avoid the inevitable attendee attrition that takes place at meetups in which attendees post-game at a separate venue. Having a social track also makes it easier for us to accommodate folks that had to stay late at work or couldn't get a ticket but still want to hang out.
 
 We did, however, tweak the "beer.js" brand a little bit to make it our own. Specifically, we took out the "beer". Since the use of alcohol at tech events can be a tricky issue, we wanted to avoid naming our hallway track after it. Also, when it comes to Brooklyn, attendees are just as likely to be avoiding gluten as they are alcohol, and with all the great [kombucha][kb] and [soda][soda] the borough offers, we wanted to be more inclusive.
 
@@ -148,52 +148,56 @@ The ability to build a modestly reliable stream of contributions has also allowe
 Sponsors
 --------
 
-One of the unexpected effects of dedicating sponsorship to an amazing organization like ScriptEd is that it helped focus our efforts, by quantifying our impact. So, instead of simply aiming to break even, we started actively looking for opportunities to raise funds. Fortunately, the seller's job market in tech made that much easier, as the value of web developer attention is at an all-time high.
+One of the unexpected effects of dedicating sponsorship to an amazing organization like ScriptEd is that it helped focus our efforts, by quantifying our impact. So, instead of simply aiming to break even, we started actively looking for opportunities to raise funds. Fortunately, the seller's job market in tech made that easier, as the value of web developer attention is at an all-time high.
 
-These dynamics allowed us to keep ticket prices below cost for the event itself, so that donations could be covered entirely by sponsors. The setup that we settled on was three sponsorship slots during the event introduction, at $500 per slot. Each slot allows the developers (recruiters are not allowed at BrooklynJS) representing the sponsor to come up during the intro and pitch the audience for two minutes.
+These dynamics allowed us to keep ticket prices below cost for the event itself, so that our donations could be covered entirely by sponsors. The setup that we settled on was three sponsorship slots during the event introduction, at $500 per slot. Each slot allows the developers representing the sponsor (recruiters are not allowed at BrooklynJS) to come up towards the end of the intro and pitch the audience for two minutes. While this may sound pretty dry, the audience is well engaged by the time sponsors appear, and the emcees are on hand to inject any needed repartee to make sure each pitch is edutaining.
 
-<a href="https://twitter.com/github"><img width=32 height=32 src='https://twitter.com/github/profile_image?size=original'></a>
-<a href="https://twitter.com/crushlovely"><img width=32 height=32 src='https://twitter.com/crushlovely/profile_image?size=original'></a>
-<a href="https://twitter.com/nodejitsu"><img width=32 height=32 src='https://twitter.com/nodejitsu/profile_image?size=original'></a>
-<a href="https://twitter.com/digitalocean"><img width=32 height=32 src='https://twitter.com/digitalocean/profile_image?size=original'></a>
-<a href="https://twitter.com/harvest"><img width=32 height=32 src='https://twitter.com/harvest/profile_image?size=original'></a>
-<a href="https://twitter.com/etsy"><img width=32 height=32 src='https://twitter.com/etsy/profile_image?size=original'></a>
-<a href="https://twitter.com/hugeinc"><img width=32 height=32 src='https://twitter.com/hugeinc/profile_image?size=original'></a>
-<a href="https://twitter.com/bocoup"><img width=32 height=32 src='https://twitter.com/bocoup/profile_image?size=original'></a>
-<a href="https://twitter.com/tumblreng"><img width=32 height=32 src='https://twitter.com/tumblreng/profile_image?size=original'></a>
-<a href="https://twitter.com/sfxii"><img width=32 height=32 src='https://twitter.com/sfxii/profile_image?size=original'></a>
-<a href="https://twitter.com/spotify"><img width=32 height=32 src='https://twitter.com/spotify/profile_image?size=original'></a>
-<a href="https://twitter.com/twilio"><img width=32 height=32 src='https://twitter.com/twilio/profile_image?size=original'></a>
-<a href="https://twitter.com/chartbeat"><img width=32 height=32 src='https://twitter.com/chartbeat/profile_image?size=original'></a>
-<a href="https://twitter.com/policymic"><img width=32 height=32 src='https://twitter.com/policymic/profile_image?size=original'></a>
-<a href="https://yuzu.com"><img width=32 height=32 src='https://mdn.stonybrook.edu/files/2015/08/yuzu-logo-27f8zu6.png'></a>
-<a href="https://twitter.com/fivethirtyeight"><img width=32 height=32 src='https://twitter.com/fivethirtyeight/profile_image?size=original'></a>
-<a href="https://twitter.com/nytdevs"><img width=32 height=32 src='https://twitter.com/nytdevs/profile_image?size=original'></a>
-<a href="https://twitter.com/bloomberg"><img width=32 height=32 src='https://twitter.com/bloomberg/profile_image?size=original'></a>
-<a href="https://twitter.com/empirejs"><img width=32 height=32 src='https://twitter.com/empirejs/profile_image?size=original'></a>
-<a href="https://twitter.com/10up"><img width=32 height=32 src='https://twitter.com/10up/profile_image?size=original'></a>
-<a href="https://twitter.com/jibe"><img width=32 height=32 src='https://twitter.com/jibe/profile_image?size=original'></a>
-<a href="https://twitter.com/newyorker"><img width=32 height=32 src='https://twitter.com/newyorker/profile_image?size=original'></a>
-<a href="https://twitter.com/barkbox"><img width=32 height=32 src='https://twitter.com/barkbox/profile_image?size=original'></a>
-<a href="https://twitter.com/sefaira"><img width=32 height=32 src='https://twitter.com/sefaira/profile_image?size=original'></a>
-<a href="https://twitter.com/pivotal"><img width=32 height=32 src='https://twitter.com/pivotal/profile_image?size=original'></a>
-<a href="https://twitter.com/dropbox"><img width=32 height=32 src='https://twitter.com/dropbox/profile_image?size=original'></a>
-<a href="https://twitter.com/genius"><img width=32 height=32 src='https://twitter.com/genius/profile_image?size=original'></a>
-<a href="http://www.scripto.cc"><img width=32 height=32 src='https://twitter.com/whale_eat_squid/profile_image?size=original'></a>
-<a href="https://twitter.com/autodesk"><img width=32 height=32 src='https://twitter.com/autodesk/profile_image?size=original'></a>
-<a href="https://twitter.com/thehackerati"><img width=32 height=32 src='https://twitter.com/thehackerati/profile_image?size=original'></a>
-<a href="https://twitter.com/oscarhealth"><img width=32 height=32 src='https://twitter.com/oscarhealth/profile_image?size=original'></a>
-<a href="https://twitter.com/namelyhr"><img width=32 height=32 src='https://twitter.com/namelyhr/profile_image?size=original'></a>
-<a href="https://twitter.com/classpass"><img width=32 height=32 src='https://twitter.com/classpass/profile_image?size=original'></a>
-<a href="https://twitter.com/transloadit"><img width=32 height=32 src='https://twitter.com/transloadit/profile_image?size=original'></a>
-<a href="https://twitter.com/asana"><img width=32 height=32 src='https://twitter.com/asana/profile_image?size=original'></a>
-<a href="https://twitter.com/blockchain"><img width=32 height=32 src='https://twitter.com/blockchain/profile_image?size=original'></a>
-<a href="https://twitter.com/mozilla"><img width=32 height=32 src='https://twitter.com/mozilla/profile_image?size=original'></a>
-<a href="https://twitter.com/adfin"><img width=32 height=32 src='https://twitter.com/adfin/profile_image?size=original'></a>
-<a href="https://twitter.com/nymag"><img width=32 height=32 src='https://twitter.com/nymag/profile_image?size=original'></a>
-<a href="https://twitter.com/ride"><img width=32 height=32 src='https://twitter.com/ride/profile_image?size=original'></a>
-<a href="https://twitter.com/_relayfm"><img width=32 height=32 src='https://twitter.com/_relayfm/profile_image?size=original'></a>
-<a href="https://twitter.com/StrideDev"><img width=32 height=32 src='https://twitter.com/StrideDev/profile_image?size=original'></a>
+As of the end of 2015, we had 41 sponsors participate:
+
+<a href="https://twitter.com/github"><img width=48 height=48 src='https://twitter.com/github/profile_image?size=original'></a>
+<a href="https://twitter.com/crushlovely"><img width=48 height=48 src='https://twitter.com/crushlovely/profile_image?size=original'></a>
+<a href="https://twitter.com/nodejitsu"><img width=48 height=48 src='https://twitter.com/nodejitsu/profile_image?size=original'></a>
+<a href="https://twitter.com/digitalocean"><img width=48 height=48 src='https://twitter.com/digitalocean/profile_image?size=original'></a>
+<a href="https://twitter.com/harvest"><img width=48 height=48 src='https://twitter.com/harvest/profile_image?size=original'></a>
+<a href="https://twitter.com/etsy"><img width=48 height=48 src='https://twitter.com/etsy/profile_image?size=original'></a>
+<a href="https://twitter.com/hugeinc"><img width=48 height=48 src='https://twitter.com/hugeinc/profile_image?size=original'></a>
+<a href="https://twitter.com/bocoup"><img width=48 height=48 src='https://twitter.com/bocoup/profile_image?size=original'></a>
+<a href="https://twitter.com/tumblreng"><img width=48 height=48 src='https://twitter.com/tumblreng/profile_image?size=original'></a>
+<a href="https://twitter.com/sfxii"><img width=48 height=48 src='https://twitter.com/sfxii/profile_image?size=original'></a>
+<a href="https://twitter.com/spotify"><img width=48 height=48 src='https://twitter.com/spotify/profile_image?size=original'></a>
+<a href="https://twitter.com/twilio"><img width=48 height=48 src='https://twitter.com/twilio/profile_image?size=original'></a>
+<a href="https://twitter.com/chartbeat"><img width=48 height=48 src='https://twitter.com/chartbeat/profile_image?size=original'></a>
+<a href="https://twitter.com/policymic"><img width=48 height=48 src='https://twitter.com/policymic/profile_image?size=original'></a>
+<a href="https://yuzu.com"><img width=48 height=48 src='https://mdn.stonybrook.edu/files/2015/08/yuzu-logo-27f8zu6.png'></a>
+<a href="https://twitter.com/fivethirtyeight"><img width=48 height=48 src='https://twitter.com/fivethirtyeight/profile_image?size=original'></a>
+<a href="https://twitter.com/nytdevs"><img width=48 height=48 src='https://twitter.com/nytdevs/profile_image?size=original'></a>
+<a href="https://twitter.com/bloomberg"><img width=48 height=48 src='https://twitter.com/bloomberg/profile_image?size=original'></a>
+<a href="https://twitter.com/empirejs"><img width=48 height=48 src='https://twitter.com/empirejs/profile_image?size=original'></a>
+<a href="https://twitter.com/10up"><img width=48 height=48 src='https://twitter.com/10up/profile_image?size=original'></a>
+<a href="https://twitter.com/jibe"><img width=48 height=48 src='https://twitter.com/jibe/profile_image?size=original'></a>
+<a href="https://twitter.com/newyorker"><img width=48 height=48 src='https://twitter.com/newyorker/profile_image?size=original'></a>
+<a href="https://twitter.com/barkbox"><img width=48 height=48 src='https://twitter.com/barkbox/profile_image?size=original'></a>
+<a href="https://twitter.com/sefaira"><img width=48 height=48 src='https://twitter.com/sefaira/profile_image?size=original'></a>
+<a href="https://twitter.com/pivotal"><img width=48 height=48 src='https://twitter.com/pivotal/profile_image?size=original'></a>
+<a href="https://twitter.com/dropbox"><img width=48 height=48 src='https://twitter.com/dropbox/profile_image?size=original'></a>
+<a href="https://twitter.com/genius"><img width=48 height=48 src='https://twitter.com/genius/profile_image?size=original'></a>
+<a href="http://www.scripto.cc"><img width=48 height=48 src='https://twitter.com/whale_eat_squid/profile_image?size=original'></a>
+<a href="https://twitter.com/autodesk"><img width=48 height=48 src='https://twitter.com/autodesk/profile_image?size=original'></a>
+<a href="https://twitter.com/thehackerati"><img width=48 height=48 src='https://twitter.com/thehackerati/profile_image?size=original'></a>
+<a href="https://twitter.com/oscarhealth"><img width=48 height=48 src='https://twitter.com/oscarhealth/profile_image?size=original'></a>
+<a href="https://twitter.com/namelyhr"><img width=48 height=48 src='https://twitter.com/namelyhr/profile_image?size=original'></a>
+<a href="https://twitter.com/classpass"><img width=48 height=48 src='https://twitter.com/classpass/profile_image?size=original'></a>
+<a href="https://twitter.com/transloadit"><img width=48 height=48 src='https://twitter.com/transloadit/profile_image?size=original'></a>
+<a href="https://twitter.com/asana"><img width=48 height=48 src='https://twitter.com/asana/profile_image?size=original'></a>
+<a href="https://twitter.com/blockchain"><img width=48 height=48 src='https://twitter.com/blockchain/profile_image?size=original'></a>
+<a href="https://twitter.com/mozilla"><img width=48 height=48 src='https://twitter.com/mozilla/profile_image?size=original'></a>
+<a href="https://twitter.com/adfin"><img width=48 height=48 src='https://twitter.com/adfin/profile_image?size=original'></a>
+<a href="https://twitter.com/nymag"><img width=48 height=48 src='https://twitter.com/nymag/profile_image?size=original'></a>
+<a href="https://twitter.com/ride"><img width=48 height=48 src='https://twitter.com/ride/profile_image?size=original'></a>
+<a href="https://twitter.com/_relayfm"><img width=48 height=48 src='https://twitter.com/_relayfm/profile_image?size=original'></a>
+<a href="https://twitter.com/StrideDev"><img width=48 height=48 src='https://twitter.com/StrideDev/profile_image?size=original'></a>
+
+The chore of wrangling sponsorships is equally important and unglamorous, but it has grown easier as our event has become better known in the community. We started securing larger multi-month partnerships from developer-focused sponsors like [Digital Ocean][digitalocean] and [Twilio][twilio], which has reduced the burden of seeking out sponsors, and let us focus on more creative endeavors. More importantly, we started seeing sponsor leads come from within our community of developers, many of which had asked their employer to sponsor. Sponsorships like these are great, since pitches from developers already in our community are even more credible and effective.
 
 Tickets
 -------
@@ -393,15 +397,17 @@ Siblings
 [oslocoffee]: http://www.oslocoffee.com
 [bgramminglunch]: https://twitter.com/brooklyn_js/status/578591024076967936
 [budgetjs]: https://github.com/brooklynjs/brooklynjs.github.io/blob/master/budget.js
-[vanleeuwen]: http://www.vanleeuwenicecream.com/
+[vanleeuwen]: http://www.vanleeuwenicecream.com
 [scriptedorg]: https://www.scripted.org
 [manhattanjs]: http://manhattanjs.com
 [queensjs]: http://www.meetup.com/QueensJS
 [jerseyscript]: http://jerseyscript.github.io
 [nodebots]: http://nodebots.github.io/nodebots.nyc
-[scriptedmission]: https://www.scripted.org/our-mission/
+[scriptedmission]: https://www.scripted.org/our-mission
 [stbaldricks]: https://www.stbaldricks.org/fundraisers/mypage/539/2014
 [meyerweb]: https://twitter.com/meyerweb
 [herndon]: http://www.herndon-va.gov
 [aboutlastcall]: http://lastcall.jsconf.us/about.html
 [bench]: http://brooklynjs.com/loves/jsconf
+[digitalocean]: https://www.digitalocean.com
+[twilio]: https://www.twilio.com

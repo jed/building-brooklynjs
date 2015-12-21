@@ -154,48 +154,48 @@ These dynamics allowed us to keep ticket prices below cost for the event itself,
 
 As of the end of 2015, we had more than 40 sponsors participate:
 
-<a href="https://twitter.com/github"><img width=48 height=48 src='https://twitter.com/github/profile_image?size=original'></a>
-<a href="https://twitter.com/crushlovely"><img width=48 height=48 src='https://twitter.com/crushlovely/profile_image?size=original'></a>
-<a href="https://twitter.com/nodejitsu"><img width=48 height=48 src='https://twitter.com/nodejitsu/profile_image?size=original'></a>
-<a href="https://twitter.com/digitalocean"><img width=48 height=48 src='https://twitter.com/digitalocean/profile_image?size=original'></a>
-<a href="https://twitter.com/harvest"><img width=48 height=48 src='https://twitter.com/harvest/profile_image?size=original'></a>
-<a href="https://twitter.com/etsy"><img width=48 height=48 src='https://twitter.com/etsy/profile_image?size=original'></a>
-<a href="https://twitter.com/hugeinc"><img width=48 height=48 src='https://twitter.com/hugeinc/profile_image?size=original'></a>
-<a href="https://twitter.com/bocoup"><img width=48 height=48 src='https://twitter.com/bocoup/profile_image?size=original'></a>
-<a href="https://twitter.com/tumblreng"><img width=48 height=48 src='https://twitter.com/tumblreng/profile_image?size=original'></a>
-<a href="https://twitter.com/sfxii"><img width=48 height=48 src='https://twitter.com/sfxii/profile_image?size=original'></a>
-<a href="https://twitter.com/spotify"><img width=48 height=48 src='https://twitter.com/spotify/profile_image?size=original'></a>
-<a href="https://twitter.com/twilio"><img width=48 height=48 src='https://twitter.com/twilio/profile_image?size=original'></a>
-<a href="https://twitter.com/chartbeat"><img width=48 height=48 src='https://twitter.com/chartbeat/profile_image?size=original'></a>
-<a href="https://twitter.com/policymic"><img width=48 height=48 src='https://twitter.com/policymic/profile_image?size=original'></a>
-<a href="https://yuzu.com"><img width=48 height=48 src='https://mdn.stonybrook.edu/files/2015/08/yuzu-logo-27f8zu6.png'></a>
-<a href="https://twitter.com/fivethirtyeight"><img width=48 height=48 src='https://twitter.com/fivethirtyeight/profile_image?size=original'></a>
-<a href="https://twitter.com/nytdevs"><img width=48 height=48 src='https://twitter.com/nytdevs/profile_image?size=original'></a>
-<a href="https://twitter.com/bloomberg"><img width=48 height=48 src='https://twitter.com/bloomberg/profile_image?size=original'></a>
-<a href="https://twitter.com/empirejs"><img width=48 height=48 src='https://twitter.com/empirejs/profile_image?size=original'></a>
-<a href="https://twitter.com/10up"><img width=48 height=48 src='https://twitter.com/10up/profile_image?size=original'></a>
-<a href="https://twitter.com/jibe"><img width=48 height=48 src='https://twitter.com/jibe/profile_image?size=original'></a>
-<a href="https://twitter.com/newyorker"><img width=48 height=48 src='https://twitter.com/newyorker/profile_image?size=original'></a>
-<a href="https://twitter.com/barkbox"><img width=48 height=48 src='https://twitter.com/barkbox/profile_image?size=original'></a>
-<a href="https://twitter.com/sefaira"><img width=48 height=48 src='https://twitter.com/sefaira/profile_image?size=original'></a>
-<a href="https://twitter.com/pivotal"><img width=48 height=48 src='https://twitter.com/pivotal/profile_image?size=original'></a>
-<a href="https://twitter.com/dropbox"><img width=48 height=48 src='https://twitter.com/dropbox/profile_image?size=original'></a>
-<a href="https://twitter.com/genius"><img width=48 height=48 src='https://twitter.com/genius/profile_image?size=original'></a>
-<a href="http://www.scripto.cc"><img width=48 height=48 src='https://twitter.com/whale_eat_squid/profile_image?size=original'></a>
-<a href="https://twitter.com/autodesk"><img width=48 height=48 src='https://twitter.com/autodesk/profile_image?size=original'></a>
-<a href="https://twitter.com/thehackerati"><img width=48 height=48 src='https://twitter.com/thehackerati/profile_image?size=original'></a>
-<a href="https://twitter.com/oscarhealth"><img width=48 height=48 src='https://twitter.com/oscarhealth/profile_image?size=original'></a>
-<a href="https://twitter.com/namelyhr"><img width=48 height=48 src='https://twitter.com/namelyhr/profile_image?size=original'></a>
-<a href="https://twitter.com/classpass"><img width=48 height=48 src='https://twitter.com/classpass/profile_image?size=original'></a>
-<a href="https://twitter.com/transloadit"><img width=48 height=48 src='https://twitter.com/transloadit/profile_image?size=original'></a>
-<a href="https://twitter.com/asana"><img width=48 height=48 src='https://twitter.com/asana/profile_image?size=original'></a>
-<a href="https://twitter.com/blockchain"><img width=48 height=48 src='https://twitter.com/blockchain/profile_image?size=original'></a>
-<a href="https://twitter.com/mozilla"><img width=48 height=48 src='https://twitter.com/mozilla/profile_image?size=original'></a>
-<a href="https://twitter.com/adfin"><img width=48 height=48 src='https://twitter.com/adfin/profile_image?size=original'></a>
-<a href="https://twitter.com/nymag"><img width=48 height=48 src='https://twitter.com/nymag/profile_image?size=original'></a>
-<a href="https://twitter.com/ride"><img width=48 height=48 src='https://twitter.com/ride/profile_image?size=original'></a>
-<a href="https://twitter.com/_relayfm"><img width=48 height=48 src='https://twitter.com/_relayfm/profile_image?size=original'></a>
-<a href="https://twitter.com/StrideDev"><img width=48 height=48 src='https://twitter.com/StrideDev/profile_image?size=original'></a>
+![github](images/sblob/master/ponsors/github.png)
+![crushlovely](blob/master/images/sponsors/crushlovely.png)
+![nodejitsu](blob/master/images/sponsors/nodejitsu.png)
+![digitalocean](blob/master/images/sponsors/digitalocean.png)
+![harvest](blob/master/images/sponsors/harvest.png)
+![etsy](blob/master/images/sponsors/etsy.png)
+![hugeinc](blob/master/images/sponsors/hugeinc.png)
+![bocoup](blob/master/images/sponsors/bocoup.png)
+![tumblreng](blob/master/images/sponsors/tumblreng.png)
+![sfxii](blob/master/images/sponsors/sfxii.png)
+![spotify](blob/master/images/sponsors/spotify.png)
+![twilio](blob/master/images/sponsors/twilio.png)
+![chartbeat](blob/master/images/sponsors/chartbeat.png)
+![policymic](blob/master/images/sponsors/policymic.png)
+![yuzubn](blob/master/images/sponsors/yuzubn.png)
+![fivethirtyeight](blob/master/images/sponsors/fivethirtyeight.png)
+![nytdevs](blob/master/images/sponsors/nytdevs.png)
+![bloomberg](blob/master/images/sponsors/bloomberg.png)
+![empirejs](blob/master/images/sponsors/empirejs.png)
+![10up](blob/master/images/sponsors/10up.png)
+![jibe](blob/master/images/sponsors/jibe.png)
+![newyorker](blob/master/images/sponsors/newyorker.png)
+![barkbox](blob/master/images/sponsors/barkbox.png)
+![sefaira](blob/master/images/sponsors/sefaira.png)
+![pivotal](blob/master/images/sponsors/pivotal.png)
+![dropbox](blob/master/images/sponsors/dropbox.png)
+![genius](blob/master/images/sponsors/genius.png)
+![scripto](blob/master/images/sponsors/scripto.png)
+![autodesk](blob/master/images/sponsors/autodesk.png)
+![thehackerati](blob/master/images/sponsors/thehackerati.png)
+![oscarhealth](blob/master/images/sponsors/oscarhealth.png)
+![namelyhr](blob/master/images/sponsors/namelyhr.png)
+![classpass](blob/master/images/sponsors/classpass.png)
+![transloadit](blob/master/images/sponsors/transloadit.png)
+![asana](blob/master/images/sponsors/asana.png)
+![blockchain](blob/master/images/sponsors/blockchain.png)
+![mozilla](blob/master/images/sponsors/mozilla.png)
+![adfin](blob/master/images/sponsors/adfin.png)
+![nymag](blob/master/images/sponsors/nymag.png)
+![ride](blob/master/images/sponsors/ride.png)
+![_relayfm](blob/master/images/sponsors/_relayfm.png)
+![StrideDev](blob/master/images/sponsors/StrideDev.png)
 
 The chore of wrangling sponsorships is equally important and unglamorous, but it has grown easier as our event has become better known in the community. We started securing larger multi-month partnerships from developer-focused sponsors like [Digital Ocean][digitalocean] and [Twilio][twilio], which has reduced the burden of seeking out sponsors, and let us focus on more creative endeavors. More importantly, we started seeing sponsor leads come from within our community of developers, many of which had asked their employer to sponsor. Sponsorships like these are great, since pitches from developers already in our community are even more credible and effective.
 

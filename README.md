@@ -154,7 +154,7 @@ These dynamics allowed us to keep ticket prices below cost for the event itself,
 
 As of the end of 2015, we had more than 40 sponsors participate:
 
-![github](images/sblob/master/ponsors/github.png)
+![github](blob/master/images/sponsors/github.png)
 ![crushlovely](blob/master/images/sponsors/crushlovely.png)
 ![nodejitsu](blob/master/images/sponsors/nodejitsu.png)
 ![digitalocean](blob/master/images/sponsors/digitalocean.png)
@@ -226,108 +226,112 @@ Following the MTA's history, we decided next to up the Brooklyn aesthetic and mo
 Speakers
 --------
 
-<a href="https://twitter.com/__lucas"><img width=32 height=32 src='https://twitter.com/__lucas/profile_image?size=original'></a>
-<a href="https://twitter.com/_akievet"><img width=32 height=32 src='https://twitter.com/_akievet/profile_image?size=original'></a>
-<a href="https://twitter.com/_alastair"><img width=32 height=32 src='https://twitter.com/_alastair/profile_image?size=original'></a>
-<a href="https://twitter.com/aaronmoodie"><img width=32 height=32 src='https://twitter.com/aaronmoodie/profile_image?size=original'></a>
-<a href="https://twitter.com/aemkei"><img width=32 height=32 src='https://twitter.com/aemkei/profile_image?size=original'></a>
-<a href="https://twitter.com/ajdant"><img width=32 height=32 src='https://twitter.com/ajdant/profile_image?size=original'></a>
-<a href="https://twitter.com/alanmoo"><img width=32 height=32 src='https://twitter.com/alanmoo/profile_image?size=original'></a>
-<a href="https://twitter.com/am3thyst"><img width=32 height=32 src='https://twitter.com/am3thyst/profile_image?size=original'></a>
-<a href="https://twitter.com/amasad"><img width=32 height=32 src='https://twitter.com/amasad/profile_image?size=original'></a>
-<a href="https://twitter.com/annelibby"><img width=32 height=32 src='https://twitter.com/annelibby/profile_image?size=original'></a>
-<a href="https://twitter.com/aq"><img width=32 height=32 src='https://twitter.com/aq/profile_image?size=original'></a>
-<a href="https://twitter.com/benjamn"><img width=32 height=32 src='https://twitter.com/benjamn/profile_image?size=original'></a>
-<a href="https://twitter.com/boucher"><img width=32 height=32 src='https://twitter.com/boucher/profile_image?size=original'></a>
-<a href="https://twitter.com/brendaneich"><img width=32 height=32 src='https://twitter.com/brendaneich/profile_image?size=original'></a>
-<a href="https://twitter.com/brittanystoroz"><img width=32 height=32 src='https://twitter.com/brittanystoroz/profile_image?size=original'></a>
-<a href="https://twitter.com/brycekahle"><img width=32 height=32 src='https://twitter.com/brycekahle/profile_image?size=original'></a>
-<a href="https://twitter.com/buritica"><img width=32 height=32 src='https://twitter.com/buritica/profile_image?size=original'></a>
-<a href="https://twitter.com/chriscoyier"><img width=32 height=32 src='https://twitter.com/chriscoyier/profile_image?size=original'></a>
-<a href="https://twitter.com/coderzach"><img width=32 height=32 src='https://twitter.com/coderzach/profile_image?size=original'></a>
-<a href="https://twitter.com/copasetickid"><img width=32 height=32 src='https://twitter.com/copasetickid/profile_image?size=original'></a>
-<a href="https://twitter.com/danordille"><img width=32 height=32 src='https://twitter.com/danordille/profile_image?size=original'></a>
-<a href="https://twitter.com/dcmotz"><img width=32 height=32 src='https://twitter.com/dcmotz/profile_image?size=original'></a>
-<a href="https://twitter.com/dcousineau"><img width=32 height=32 src='https://twitter.com/dcousineau/profile_image?size=original'></a>
-<a href="https://twitter.com/domenic"><img width=32 height=32 src='https://twitter.com/domenic/profile_image?size=original'></a>
-<a href="https://twitter.com/donohoe"><img width=32 height=32 src='https://twitter.com/donohoe/profile_image?size=original'></a>
-<a href="https://twitter.com/dphiffer"><img width=32 height=32 src='https://twitter.com/dphiffer/profile_image?size=original'></a>
-<a href="https://twitter.com/E0M"><img width=32 height=32 src='https://twitter.com/E0M/profile_image?size=original'></a>
-<a href="https://twitter.com/ericandrewlewis"><img width=32 height=32 src='https://twitter.com/ericandrewlewis/profile_image?size=original'></a>
-<a href="https://twitter.com/frazelledazzell"><img width=32 height=32 src='https://twitter.com/frazelledazzell/profile_image?size=original'></a>
-<a href="https://twitter.com/ftrain"><img width=32 height=32 src='https://twitter.com/ftrain/profile_image?size=original'></a>
-<a href="https://twitter.com/gscottolson"><img width=32 height=32 src='https://twitter.com/gscottolson/profile_image?size=original'></a>
-<a href="https://twitter.com/hackygolucky"><img width=32 height=32 src='https://twitter.com/hackygolucky/profile_image?size=original'></a>
-<a href="https://twitter.com/harthvader"><img width=32 height=32 src='https://twitter.com/harthvader/profile_image?size=original'></a>
-<a href="https://twitter.com/helenhousandi"><img width=32 height=32 src='https://twitter.com/helenhousandi/profile_image?size=original'></a>
-<a href="https://twitter.com/hichaelmart"><img width=32 height=32 src='https://twitter.com/hichaelmart/profile_image?size=original'></a>
-<a href="https://twitter.com/hipsterbrown"><img width=32 height=32 src='https://twitter.com/hipsterbrown/profile_image?size=original'></a>
-<a href="https://twitter.com/hypirlink"><img width=32 height=32 src='https://twitter.com/hypirlink/profile_image?size=original'></a>
-<a href="https://twitter.com/indexzero"><img width=32 height=32 src='https://twitter.com/indexzero/profile_image?size=original'></a>
-<a href="https://twitter.com/itsmisscs"><img width=32 height=32 src='https://twitter.com/itsmisscs/profile_image?size=original'></a>
-<a href="https://twitter.com/jamessocol"><img width=32 height=32 src='https://twitter.com/jamessocol/profile_image?size=original'></a>
-<a href="https://twitter.com/jandet"><img width=32 height=32 src='https://twitter.com/jandet/profile_image?size=original'></a>
-<a href="https://twitter.com/janecakemaster"><img width=32 height=32 src='https://twitter.com/janecakemaster/profile_image?size=original'></a>
-<a href="https://twitter.com/jennschiffer"><img width=32 height=32 src='https://twitter.com/jennschiffer/profile_image?size=original'></a>
-<a href="https://twitter.com/jeresig"><img width=32 height=32 src='https://twitter.com/jeresig/profile_image?size=original'></a>
-<a href="https://twitter.com/jlukic"><img width=32 height=32 src='https://twitter.com/jlukic/profile_image?size=original'></a>
-<a href="https://twitter.com/jschementi"><img width=32 height=32 src='https://twitter.com/jschementi/profile_image?size=original'></a>
-<a href="https://twitter.com/kandizzy"><img width=32 height=32 src='https://twitter.com/kandizzy/profile_image?size=original'></a>
-<a href="https://twitter.com/kilmc"><img width=32 height=32 src='https://twitter.com/kilmc/profile_image?size=original'></a>
-<a href="https://twitter.com/kirbysayshi"><img width=32 height=32 src='https://twitter.com/kirbysayshi/profile_image?size=original'></a>
-<a href="https://twitter.com/kosamari"><img width=32 height=32 src='https://twitter.com/kosamari/profile_image?size=original'></a>
-<a href="https://twitter.com/linclark"><img width=32 height=32 src='https://twitter.com/linclark/profile_image?size=original'></a>
-<a href="https://twitter.com/mando_amador"><img width=32 height=32 src='https://twitter.com/mando_amador/profile_image?size=original'></a>
-<a href="https://twitter.com/mani_art"><img width=32 height=32 src='https://twitter.com/mani_art/profile_image?size=original'></a>
-<a href="https://twitter.com/marijnjh"><img width=32 height=32 src='https://twitter.com/marijnjh/profile_image?size=original'></a>
-<a href="https://twitter.com/maryrosecook"><img width=32 height=32 src='https://twitter.com/maryrosecook/profile_image?size=original'></a>
-<a href="https://twitter.com/mathisonian"><img width=32 height=32 src='https://twitter.com/mathisonian/profile_image?size=original'></a>
-<a href="https://twitter.com/mattpodwysocki"><img width=32 height=32 src='https://twitter.com/mattpodwysocki/profile_image?size=original'></a>
-<a href="https://twitter.com/meredithmmyers"><img width=32 height=32 src='https://twitter.com/meredithmmyers/profile_image?size=original'></a>
-<a href="https://twitter.com/meyerini"><img width=32 height=32 src='https://twitter.com/meyerini/profile_image?size=original'></a>
-<a href="https://twitter.com/modernserf"><img width=32 height=32 src='https://twitter.com/modernserf/profile_image?size=original'></a>
-<a href="https://twitter.com/mroth"><img width=32 height=32 src='https://twitter.com/mroth/profile_image?size=original'></a>
-<a href="#"><img width=32 height=32 src='https://pbs.twimg.com/profile_images/423384530/Picture_2_bigger_400x400.png'></a>
-<a href="https://twitter.com/nakajima"><img width=32 height=32 src='https://twitter.com/nakajima/profile_image?size=original'></a>
-<a href="https://twitter.com/nathanstilwell"><img width=32 height=32 src='https://twitter.com/nathanstilwell/profile_image?size=original'></a>
-<a href="https://twitter.com/nolanlawson"><img width=32 height=32 src='https://twitter.com/nolanlawson/profile_image?size=original'></a>
-<a href="https://twitter.com/noopkat"><img width=32 height=32 src='https://twitter.com/noopkat/profile_image?size=original'></a>
-<a href="https://twitter.com/nsylianteng"><img width=32 height=32 src='https://twitter.com/nsylianteng/profile_image?size=original'></a>
-<a href="https://twitter.com/ohhoe"><img width=32 height=32 src='https://twitter.com/ohhoe/profile_image?size=original'></a>
-<a href="https://twitter.com/opheliasdaisies"><img width=32 height=32 src='https://twitter.com/opheliasdaisies/profile_image?size=original'></a>
-<a href="https://twitter.com/pamasaur"><img width=32 height=32 src='https://twitter.com/pamasaur/profile_image?size=original'></a>
-<a href="https://twitter.com/peoplespops"><img width=32 height=32 src='https://twitter.com/peoplespops/profile_image?size=original'></a>
-<a href="https://twitter.com/reconbot"><img width=32 height=32 src='https://twitter.com/reconbot/profile_image?size=original'></a>
-<a href="https://twitter.com/rememberlenny"><img width=32 height=32 src='https://twitter.com/rememberlenny/profile_image?size=original'></a>
-<a href="https://twitter.com/renrutnnej"><img width=32 height=32 src='https://twitter.com/renrutnnej/profile_image?size=original'></a>
-<a href="https://twitter.com/rich_harris"><img width=32 height=32 src='https://twitter.com/rich_harris/profile_image?size=original'></a>
-<a href="https://twitter.com/richlitt"><img width=32 height=32 src='https://twitter.com/richlitt/profile_image?size=original'></a>
-<a href="https://twitter.com/rickyrobinett"><img width=32 height=32 src='https://twitter.com/rickyrobinett/profile_image?size=original'></a>
-<a href="#"><img width=32 height=32 src='http://tinyclouds.org/ryan.jpg'></a>
-<a href="https://twitter.com/sarajchipps"><img width=32 height=32 src='https://twitter.com/sarajchipps/profile_image?size=original'></a>
-<a href="https://twitter.com/scottluptowski"><img width=32 height=32 src='https://twitter.com/scottluptowski/profile_image?size=original'></a>
-<a href="https://twitter.com/seejohnrun"><img width=32 height=32 src='https://twitter.com/seejohnrun/profile_image?size=original'></a>
-<a href="https://twitter.com/sranso"><img width=32 height=32 src='https://twitter.com/sranso/profile_image?size=original'></a>
-<a href="https://twitter.com/stefanpenner"><img width=32 height=32 src='https://twitter.com/stefanpenner/profile_image?size=original'></a>
-<a href="https://twitter.com/stijlist"><img width=32 height=32 src='https://twitter.com/stijlist/profile_image?size=original'></a>
-<a href="https://twitter.com/strzel_a"><img width=32 height=32 src='https://twitter.com/strzel_a/profile_image?size=original'></a>
-<a href="https://twitter.com/superandomness"><img width=32 height=32 src='https://twitter.com/superandomness/profile_image?size=original'></a>
-<a href="https://twitter.com/supersgp"><img width=32 height=32 src='https://twitter.com/supersgp/profile_image?size=original'></a>
-<a href="https://twitter.com/susanemcg"><img width=32 height=32 src='https://twitter.com/susanemcg/profile_image?size=original'></a>
-<a href="https://twitter.com/tbuchok"><img width=32 height=32 src='https://twitter.com/tbuchok/profile_image?size=original'></a>
-<a href="https://twitter.com/thegaw"><img width=32 height=32 src='https://twitter.com/thegaw/profile_image?size=original'></a>
-<a href="https://twitter.com/theglamp"><img width=32 height=32 src='https://twitter.com/theglamp/profile_image?size=original'></a>
-<a href="https://twitter.com/thlorenz"><img width=32 height=32 src='https://twitter.com/thlorenz/profile_image?size=original'></a>
-<a href="https://twitter.com/tinysubversions"><img width=32 height=32 src='https://twitter.com/tinysubversions/profile_image?size=original'></a>
-<a href="https://twitter.com/vijithassar"><img width=32 height=32 src='https://twitter.com/vijithassar/profile_image?size=original'></a>
-<a href="https://twitter.com/vinceallenvince"><img width=32 height=32 src='https://twitter.com/vinceallenvince/profile_image?size=original'></a>
-<a href="https://twitter.com/voodootikigod"><img width=32 height=32 src='https://twitter.com/voodootikigod/profile_image?size=original'></a>
-<a href="https://twitter.com/whale_eat_squid"><img width=32 height=32 src='https://twitter.com/whale_eat_squid/profile_image?size=original'></a>
-<a href="https://twitter.com/woolypixel"><img width=32 height=32 src='https://twitter.com/woolypixel/profile_image?size=original'></a>
-<a href="https://twitter.com/youyuxi"><img width=32 height=32 src='https://twitter.com/youyuxi/profile_image?size=original'></a>
-<a href="https://twitter.com/zeejab"><img width=32 height=32 src='https://twitter.com/zeejab/profile_image?size=original'></a>
-<a href="https://twitter.com/zeigenvector"><img width=32 height=32 src='https://twitter.com/zeigenvector/profile_image?size=original'></a>
-<a href="https://twitter.com/zertosh"><img width=32 height=32 src='https://twitter.com/zertosh/profile_image?size=original'></a>
+Our first themed event was hardware.
+For our first birthday, we had a dedicated art event.
+We did a joint event with CSSConf.
+
+![__lucas](blob/master/images/speakers/__lucas.png)
+![_akievet](blob/master/images/speakers/_akievet.png)
+![_alastair](blob/master/images/speakers/_alastair.png)
+![aaronmoodie](blob/master/images/speakers/aaronmoodie.png)
+![aemkei](blob/master/images/speakers/aemkei.png)
+![ajdant](blob/master/images/speakers/ajdant.png)
+![alanmoo](blob/master/images/speakers/alanmoo.png)
+![am3thyst](blob/master/images/speakers/am3thyst.png)
+![amasad](blob/master/images/speakers/amasad.png)
+![annelibby](blob/master/images/speakers/annelibby.png)
+![aq](blob/master/images/speakers/aq.png)
+![benjamn](blob/master/images/speakers/benjamn.png)
+![boucher](blob/master/images/speakers/boucher.png)
+![brendaneich](blob/master/images/speakers/brendaneich.png)
+![brittanystoroz](blob/master/images/speakers/brittanystoroz.png)
+![brycekahle](blob/master/images/speakers/brycekahle.png)
+![buritica](blob/master/images/speakers/buritica.png)
+![chriscoyier](blob/master/images/speakers/chriscoyier.png)
+![coderzach](blob/master/images/speakers/coderzach.png)
+![copasetickid](blob/master/images/speakers/copasetickid.png)
+![danordille](blob/master/images/speakers/danordille.png)
+![dcmotz](blob/master/images/speakers/dcmotz.png)
+![dcousineau](blob/master/images/speakers/dcousineau.png)
+![domenic](blob/master/images/speakers/domenic.png)
+![donohoe](blob/master/images/speakers/donohoe.png)
+![dphiffer](blob/master/images/speakers/dphiffer.png)
+![E0M](blob/master/images/speakers/E0M.png)
+![ericandrewlewis](blob/master/images/speakers/ericandrewlewis.png)
+![frazelledazzell](blob/master/images/speakers/frazelledazzell.png)
+![ftrain](blob/master/images/speakers/ftrain.png)
+![gscottolson](blob/master/images/speakers/gscottolson.png)
+![hackygolucky](blob/master/images/speakers/hackygolucky.png)
+![harthvader](blob/master/images/speakers/harthvader.png)
+![helenhousandi](blob/master/images/speakers/helenhousandi.png)
+![hichaelmart](blob/master/images/speakers/hichaelmart.png)
+![hipsterbrown](blob/master/images/speakers/hipsterbrown.png)
+![hypirlink](blob/master/images/speakers/hypirlink.png)
+![indexzero](blob/master/images/speakers/indexzero.png)
+![itsmisscs](blob/master/images/speakers/itsmisscs.png)
+![jamessocol](blob/master/images/speakers/jamessocol.png)
+![jandet](blob/master/images/speakers/jandet.png)
+![janecakemaster](blob/master/images/speakers/janecakemaster.png)
+![jennschiffer](blob/master/images/speakers/jennschiffer.png)
+![jeresig](blob/master/images/speakers/jeresig.png)
+![jlukic](blob/master/images/speakers/jlukic.png)
+![jschementi](blob/master/images/speakers/jschementi.png)
+![kandizzy](blob/master/images/speakers/kandizzy.png)
+![kilmc](blob/master/images/speakers/kilmc.png)
+![kirbysayshi](blob/master/images/speakers/kirbysayshi.png)
+![kosamari](blob/master/images/speakers/kosamari.png)
+![linclark](blob/master/images/speakers/linclark.png)
+![mando_amador](blob/master/images/speakers/mando_amador.png)
+![mani_art](blob/master/images/speakers/mani_art.png)
+![marijnjh](blob/master/images/speakers/marijnjh.png)
+![maryrosecook](blob/master/images/speakers/maryrosecook.png)
+![mathisonian](blob/master/images/speakers/mathisonian.png)
+![mattpodwysocki](blob/master/images/speakers/mattpodwysocki.png)
+![meredithmmyers](blob/master/images/speakers/meredithmmyers.png)
+![meyerini](blob/master/images/speakers/meyerini.png)
+![modernserf](blob/master/images/speakers/modernserf.png)
+![mroth](blob/master/images/speakers/mroth.png)
+![mrspeaker](blob/master/images/speakers/mrspeaker.png)
+![nakajima](blob/master/images/speakers/nakajima.png)
+![nathanstilwell](blob/master/images/speakers/nathanstilwell.png)
+![nolanlawson](blob/master/images/speakers/nolanlawson.png)
+![noopkat](blob/master/images/speakers/noopkat.png)
+![nsylianteng](blob/master/images/speakers/nsylianteng.png)
+![ohhoe](blob/master/images/speakers/ohhoe.png)
+![opheliasdaisies](blob/master/images/speakers/opheliasdaisies.png)
+![pamasaur](blob/master/images/speakers/pamasaur.png)
+![peoplespops](blob/master/images/speakers/peoplespops.png)
+![reconbot](blob/master/images/speakers/reconbot.png)
+![rememberlenny](blob/master/images/speakers/rememberlenny.png)
+![renrutnnej](blob/master/images/speakers/renrutnnej.png)
+![rich_harris](blob/master/images/speakers/rich_harris.png)
+![richlitt](blob/master/images/speakers/richlitt.png)
+![rickyrobinett](blob/master/images/speakers/rickyrobinett.png)
+![ryah](blob/master/images/speakers/ryah.png)
+![sarajchipps](blob/master/images/speakers/sarajchipps.png)
+![scottluptowski](blob/master/images/speakers/scottluptowski.png)
+![seejohnrun](blob/master/images/speakers/seejohnrun.png)
+![sranso](blob/master/images/speakers/sranso.png)
+![stefanpenner](blob/master/images/speakers/stefanpenner.png)
+![stijlist](blob/master/images/speakers/stijlist.png)
+![strzel_a](blob/master/images/speakers/strzel_a.png)
+![superandomness](blob/master/images/speakers/superandomness.png)
+![supersgp](blob/master/images/speakers/supersgp.png)
+![susanemcg](blob/master/images/speakers/susanemcg.png)
+![tbuchok](blob/master/images/speakers/tbuchok.png)
+![thegaw](blob/master/images/speakers/thegaw.png)
+![theglamp](blob/master/images/speakers/theglamp.png)
+![thlorenz](blob/master/images/speakers/thlorenz.png)
+![tinysubversions](blob/master/images/speakers/tinysubversions.png)
+![vijithassar](blob/master/images/speakers/vijithassar.png)
+![vinceallenvince](blob/master/images/speakers/vinceallenvince.png)
+![voodootikigod](blob/master/images/speakers/voodootikigod.png)
+![whale_eat_squid](blob/master/images/speakers/whale_eat_squid.png)
+![woolypixel](blob/master/images/speakers/woolypixel.png)
+![youyuxi](blob/master/images/speakers/youyuxi.png)
+![zeejab](blob/master/images/speakers/zeejab.png)
+![zeigenvector](blob/master/images/speakers/zeigenvector.png)
+![zertosh](blob/master/images/speakers/zertosh.png)
 
 Organizers
 ----------

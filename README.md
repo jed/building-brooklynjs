@@ -215,11 +215,13 @@ So we left tickets at the current price of $15. They usually sell out within min
 Tickets
 -------
 
-[plaque]: https://gist.github.com/jed/c877d42e7d3dae86bc20
-[nycresistor]: http://www.nycresistor.com
-[ocooch]: http://www.ocoochhardwoods.com
-[cubo]: https://twitter.com/CuboNewYork521
-[makemode]: http://makemode.co
+A $15 ticket to BrooklynJS pretty much covers the cost of attendance. Since the very first BrooklynJS, attendees have had a choice: they can either redeem their ticket for a craft beer or other beverage at the bar, or keep it to pass that money on to ScriptEd.
+
+At first we used a standard roll of tickets, giving one to each attendee when they checked in at the door. This worked well enough for the first two months, but we decided to try something new: instead of using a cheap paper ticket, we would make a custom commemorative token that attendees would be more likely to keep. Both Brian and I had wanted to learn more about 3D printing for a while, so we asked [CUBO][cubo], a boutique printing shop in the East Village, to make us 100 custom-printed tokens based on the [old MTA tokens][mtatoken] for our next event. Even though they cost almost $2 more than a paper ticket, if we could get 25 more attendees to hold to their tickets instead of redeeming them for a beer, the tokens would pay for themselves.
+
+The tokens were a total win-win. Since far fewer were redeemed, we sent more money to ScriptEd, while creating a cute keepsake for our attendees. As CUBO's infrastructure improved, we tried higher resolution tokens, glow-in-the-dark tokens, and multi-color tokens. After a year had passed, we took all the redeemed tokens that were just taking up space in my apartment and upcycled them into [a commemorative wooden plaque][plaque], which we then sold back to attendees to raise even more funds.
+
+Following the MTA's history, we decided next to up the Brooklyn aesthetic and move to wooden Metrocards as our commemorative tickets. After taking a laser cutting class at nearby [NYC Resistor][nycresistor] with Brian to learn how to cut our wooden plaques, I camped out at their laser cutter for a few hours a month to make Metrocards out of pine, cedar, walnut, and other hardwoods from [Ocooch][ocooch]. Once that got to be a bit of a pain we started outsourcing production to [Make Mode][makemode] in Williamsburg.
 
 Speakers
 --------
@@ -342,9 +344,9 @@ Siblings
 [JerseyScript][jerseyscript]
 [Nodebots NYC][nodebots]
 
-<img width=48 height=48 src="'https://twitter.com/manhattan_js/profile_image?size=original">
-<img width=48 height=48 src="'https://twitter.com/jerseyscript/profile_image?size=original">
-<img width=48 height=48 src="'https://twitter.com/queens_js/profile_image?size=original">
+<img width=48 height=48 src="https://twitter.com/manhattan_js/profile_image?size=original">
+<img width=48 height=48 src="https://twitter.com/jerseyscriptusa/profile_image?size=original">
+<img width=48 height=48 src="https://twitter.com/queens_js/profile_image?size=original">
 <img width=48 height=48 src="https://raw.githubusercontent.com/nodebots/nodebots.io/gh-pages/logo/nodebot-450x450.png">
 
 [brooklynjs]: http://brooklynjs.com
@@ -434,3 +436,9 @@ Siblings
 [digitalocean]: https://www.digitalocean.com
 [twilio]: https://www.twilio.com
 [distribution]: https://github.com/brooklynjs/brooklynjs.github.io/issues/19
+[cubo]: https://twitter.com/CuboNewYork521
+[mtatoken]: http://web.mta.info/nyct/materiel/collectsales/pdfs/mc04044.pdf
+[plaque]: https://gist.github.com/jed/c877d42e7d3dae86bc20
+[nycresistor]: http://www.nycresistor.com
+[ocooch]: http://www.ocoochhardwoods.com
+[makemode]: http://makemode.co

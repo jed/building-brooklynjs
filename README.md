@@ -152,7 +152,7 @@ One of the unexpected effects of dedicating sponsorship to an amazing organizati
 
 These dynamics allowed us to keep ticket prices below cost for the event itself, so that our donations could be covered entirely by sponsors. The setup that we settled on was three sponsorship slots during the event introduction, at $500 per slot. Each slot allows the developers representing the sponsor (recruiters are not allowed at BrooklynJS) to come up towards the end of the intro and pitch the audience for two minutes. While this may sound pretty dry, the audience is well engaged by the time sponsors appear, and the emcees are on hand to inject any needed repartee to make sure each pitch is edutaining.
 
-As of the end of 2015, we had 41 sponsors participate:
+As of the end of 2015, we had more than 40 sponsors participate:
 
 <a href="https://twitter.com/github"><img width=48 height=48 src='https://twitter.com/github/profile_image?size=original'></a>
 <a href="https://twitter.com/crushlovely"><img width=48 height=48 src='https://twitter.com/crushlovely/profile_image?size=original'></a>
@@ -199,10 +199,27 @@ As of the end of 2015, we had 41 sponsors participate:
 
 The chore of wrangling sponsorships is equally important and unglamorous, but it has grown easier as our event has become better known in the community. We started securing larger multi-month partnerships from developer-focused sponsors like [Digital Ocean][digitalocean] and [Twilio][twilio], which has reduced the burden of seeking out sponsors, and let us focus on more creative endeavors. More importantly, we started seeing sponsor leads come from within our community of developers, many of which had asked their employer to sponsor. Sponsorships like these are great, since pitches from developers already in our community are even more credible and effective.
 
+Pricing
+-------
+
+Since BrooklynJS started, how to distribute tickets has been a significant source of stress.
+
+For our first event, we initially gave away tickets for free, capping attendance at double the recommended room capacity of 60 seats and relying on attrition to make the math work. This turned out to be a terrible idea; our inaugural event sold out in less than two hours, before many of our friends could sign up. So we sheepishly sent out an email to ticketholders that night, letting them know the ticket price would be upped to $5 the next morning, but giving them first dibs on the new tickets. Since these tickets included a free beverage, the end cost to an attendee actually less than zero, but the friction of requiring a credit card was enough to increase availability by decelerating ticket sales (until the event sold out later that day).
+
+For our second event, we doubled the ticket price to $10, but still sold out in under an hour. We raised prices to $15 for our third event, but sold out even faster. At this point, a logical capitalist would have raised ticket prices to clear the market, but since we were aiming for an inclusive community event, we didn't want to limit attendance to those who could afford a more expensive ticket.
+
+We [reached out to the community][distribution] for advice on the best way to distribute tickets, such as giving preferential access to new attendees or holding a lottery, but never really found a solution that didn't create more problems. So in the end, we decided that instead of managing demand, such as by finding a bigger venue and watering down the event to sell more tickets, our efforts were better spent creating more supply by encouraging more meetups like BrooklynJS around the city.
+
+So we left tickets at the current price of $15. They usually sell out within minutes, or seconds in the case of a high-demand event, but such is the unfortunate reality of a popular event.
+
 Tickets
 -------
 
-TODO
+[plaque]: https://gist.github.com/jed/c877d42e7d3dae86bc20
+[nycresistor]: http://www.nycresistor.com
+[ocooch]: http://www.ocoochhardwoods.com
+[cubo]: https://twitter.com/CuboNewYork521
+[makemode]: http://makemode.co
 
 Speakers
 --------
@@ -325,6 +342,11 @@ Siblings
 [JerseyScript][jerseyscript]
 [Nodebots NYC][nodebots]
 
+<img width=48 height=48 src="'https://twitter.com/manhattan_js/profile_image?size=original">
+<img width=48 height=48 src="'https://twitter.com/jerseyscript/profile_image?size=original">
+<img width=48 height=48 src="'https://twitter.com/queens_js/profile_image?size=original">
+<img width=48 height=48 src="https://raw.githubusercontent.com/nodebots/nodebots.io/gh-pages/logo/nodebot-450x450.png">
+
 [brooklynjs]: http://brooklynjs.com
 [jedschmidt]: https://twitter.com/jedschmidt
 [jeresig]: https://twitter.com/jeresig
@@ -411,3 +433,4 @@ Siblings
 [bench]: http://brooklynjs.com/loves/jsconf
 [digitalocean]: https://www.digitalocean.com
 [twilio]: https://www.twilio.com
+[distribution]: https://github.com/brooklynjs/brooklynjs.github.io/issues/19

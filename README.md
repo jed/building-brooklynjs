@@ -364,14 +364,22 @@ So if you're looking to start an event in your neck of the woods and are looking
 Organizing
 ----------
 
-From finances and ticketing to logistics and development, Brian and I put a lot of work into growing BrooklynJS, and as it approached its first birthday, I was starting to feel a little burnt out. This was probably inevitable; I don't think anyone can create an event worth going to that runs itself on autopilot, and it's really hard being playing the roles of outgoing emcee and detail-oriented organizer at the same time.
+From finances and ticketing to logistics and development, Brian and I put a lot of work into growing BrooklynJS, in aggregate likely close to that needed to run a conference. As BrooklynJS approached its first birthday, I was starting to feel a little burnt out, which was probably inevitable. I don't think anyone can create an event worth going to that runs itself on autopilot, and it's really hard being playing the roles of outgoing emcee and detail-oriented organizer at the same time.
 
 Prompted by my community organizing senpai, [Gary Chou][garychou], I mentioned these feelings at the end of [a talk I gave][orbitaltalk] at [Orbital][orbital], the creative space he runs in the Lower East Side. I never really felt comfortable asking folks to help with the administrivia of running BrooklynJS, since it's the least rewarding part, but it didn't matter, because [Willman Duffy][willmanduffy] and [Mariko Kosaka][kosamari] showed up anyway and soon become BrooklynJS's new organizers. They were happy to do the behind the scenes work while Brian and I stayed on as the emcee figureheads, which was a great division of labor and made for a really smooth transition.
 
-Willman and Mariko brought a new energy to the event, putting a renewed focus on speaker and topic diversity, while also flexing their respectively considerable skills in [puns][willmanbeverajs] and [knitting][bgrammingknit]. I felt it was important to stay on for a few months to help with the transition, but probably ended up overstaying my welcome before handing my emcee reins over [Jenn Schiffer][jenschiffer] and my organizer reins over to [Jasmine Greenaway][paladique] at the end of 2015.
+Willman and Mariko brought a new energy to the event, putting a renewed focus on speaker and topic diversity, while also flexing their respectively considerable skills in [puns][willmanbeverajs] and [knitting][bgrammingknit]. I felt it was important to stay on for a few months to help with the transition, but probably ended up overstaying my welcome before finally handing my emcee reins over [Jenn Schiffer][jenschiffer] and my organizer reins over to [Jasmine Greenaway][paladique] at the end of 2015.
 
 Reflection
 ----------
+
+For most of my time as a JavaScript developer, I've been a consumer of community events. But making the switch to a producer wasn't too hard; it's a similar jump from being a web app user to a web app creator, to which I think most JavaScript developers can relate. And like any project, I didn't really understand at the outset how much work it would be.
+
+Watching a community like the one we have in JavaScript in New York City has been my favorite part about moving here. Like many things in the city, I'm not sure how easy it would be to replicate elsewhere, due to the density and diversity unique to New York. So I'm not really confident when it comes to giving advice to folks interested in growing their own local tech communities.
+
+But there is one lesson I've learned from the past two years of helping build a successful community:
+
+**Seek mutual wins to amplify your efforts.**
 
 TODO
 

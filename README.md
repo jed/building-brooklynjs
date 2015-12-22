@@ -24,8 +24,8 @@ So aside from a handful of small company-specific events, there wasn't much of a
 
 Each one felt a little like two months of summer camp compressed into a weekend, a bunch of edutaining activities interspersed with [jokes][introcss] and [singing][disneyjs]. And when they would end, I'd feel a little sad to return home and leave those distant micro-communities behind. So I decided to find a way to bring the fun back to New York City.
 
-Start
------
+Origin
+------
 
 Along my conference travels over the summer, I kept bumping into [Brian J Brennan][brianloveswords], one of Brooklyn's finest humans, who also wanted to bring the feels of a JSConf-type event back home. By 2013, Brian and I had been to a lot of tech events, but only to attend or speak, and not to organize. Since organizing a big conference with the production value of those in the JSConf family seemed like more work than we wanted to take on, we hatched a plan to take the fun of a JSConf event, shrink it down to 8.33333-ish percent of its original size, and spread it across every month of the year. And since Brian and I lived a short walk away from each other, we decided to give our event a local feel and call it _BrooklynJS_. In November of 2013, Brian [registered the domain][icann], and I created [our riff][logo] on Chris William's [JS logo][logojs] and set up [a website][first commit] in the flavor of an [MTA schedule][mta].
 
@@ -369,6 +369,11 @@ From finances and ticketing to logistics and development, Brian and I put a lot 
 Prompted by my community organizing senpai, [Gary Chou][garychou], I mentioned these feelings at the end of [a talk I gave][orbitaltalk] at [Orbital][orbital], the creative space he runs in the Lower East Side. I never really felt comfortable asking folks to help with the administrivia of running BrooklynJS, since it's the least rewarding part, but it didn't matter, because [Willman Duffy][willmanduffy] and [Mariko Kosaka][kosamari] showed up anyway and soon become BrooklynJS's new organizers. They were happy to do the behind the scenes work while Brian and I stayed on as the emcee figureheads, which was a great division of labor and made for a really smooth transition.
 
 Willman and Mariko brought a new energy to the event, putting a renewed focus on speaker and topic diversity, while also flexing their respectively considerable skills in [puns][willmanbeverajs] and [knitting][bgrammingknit]. I felt it was important to stay on for a few months to help with the transition, but probably ended up overstaying my welcome before handing my emcee reins over [Jenn Schiffer][jenschiffer] and my organizer reins over to [Jasmine Greenaway][paladique] at the end of 2015.
+
+Reflection
+----------
+
+TODO
 
 [61events]: http://61local.com/events/month
 [61local]: http://www.61local.com

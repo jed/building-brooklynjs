@@ -355,9 +355,11 @@ Though BrooklynJS helped reboot New York City's JavaScript community, it wasn't 
 
 - [QueensJS][queensjs], by [Sarah][opheliasdaisies] and [Daniel][dcousineau], on the 1st Wednesday of the month. QueensJS starts with an open buffet (get there early), followed by three 20-minute talks, one of which highlights a first-time speaker. The event takes place upstairs at [Raven's Head Public House][ravenshead] in Astoria, and has its own dedicated bartender.
 
-Once QueensJS arrived, we created a loose umbrella organization called [BoroJS][borojs], which at the end of 2015 also welcomed [Nodebots NYC][nodebots] onboard. A good chunk of regular BoroJS attendees also hang out between events in our [Slack backchannel][slack]. Having a community that clusters around multiple smaller events with their own focus and personality makes the New York City JavaScript ecosystem really dynamic, and probably has the added side benefit of making it harder to kill when an organizer burns out or leaves town.
+Once QueensJS arrived, we created a loose umbrella organization called [BoroJS][borojs], which at the end of 2015 also welcomed [Nodebots NYC][nodebots] onboard. Having a community that clusters around multiple smaller events with their own focus and personality makes the New York City JavaScript ecosystem really dynamic, and probably has the added side benefit of making it harder to kill when an organizer burns out or leaves town.
 
 Now that there's a community-run JavaScript event almost every week of any given month, it's much easier for folks in from out of town to drop in, hang out with us, and take some of our enthusiam home with them. [Jason Rhodes][rhodesjason] started [charmCityJS][charmcityjs] in Baltimore [after boroughgramming with us][jasonbrooklynjs], and [after coming to our CSSConf crossover event][visnupbrooklynjs], [Visnu Pitiyanuvath][visnup] started [WaffleJS][wafflejs] in San Francisco, which in turn inprired [Emily Plummer][emplums] and [Max Ogden][denormalize] to kick off [a Portland version][portlandjs].
+
+If you're looking to start a like event in your neck of the woods and are looking for some advice, hit us up in our [Slack backchannel][slack]. A good chunk of the BoroJS community hangs out there, and can probably help you out.
 
 Organizers
 ----------
@@ -476,3 +478,9 @@ As BrooklynJS approached its first birthday, I was getting a little burnt out. S
 [portlandjs]: https://github.com/emily-plummer/portland_js
 [emplums]: https://twitter.com/emplums
 [denormalize]: https://twitter.com/denormalize
+[zeejab]: https://twitter.com/zeejab
+[brendamarienyc]: https://twitter.com/brendamarienyc
+[copacetickid]: https://twitter.com/copacetickid
+[jennschiffer]: https://twitter.com/jennschiffer
+[opheliasdaisies]: https://twitter.com/opheliasdaisies
+[dcousineau]: https://twitter.com/dcousineau

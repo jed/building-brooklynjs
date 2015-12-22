@@ -223,12 +223,14 @@ The tokens were a total win-win. Since far fewer were redeemed, we sent more mon
 
 Following the MTA's history, we decided next to up the Brooklyn aesthetic and move to wooden Metrocards as our commemorative tickets. After taking a laser cutting class at nearby [NYC Resistor][nycresistor] with Brian to learn how to cut our wooden plaques, I camped out at their laser cutter for a few hours a month to make Metrocards out of pine, cedar, walnut, and other hardwoods from [Ocooch][ocooch]. Once that got to be a bit of a pain we started outsourcing production to [Make Mode][makemode] in Williamsburg.
 
+For our second birthday, we also surprised ticketholders with free BrooklynJS socks made by [Sock Club][sockclub], offsetting the cost by adding an additional sponsor, and selling a third of the batch as higher cost tickets for the next event.
+
 Speakers
 --------
 
-Our first themed event was hardware.
-For our first birthday, we had a dedicated art event.
-We did a joint event with CSSConf.
+One of the things I like about JavaScript is that it's a bigger tent than most languages, used by developers in fields from design to databases to robotics. And the community is pretty fluid; for every developer moving out for the predictability of Go that doesn't come easy in JavaScript, there's a new developer moving in for the power of JavaScript that doesn't come easy in CSS.
+
+While this dynamic may make it harder to stay current in JavaScript compared to other languages, it also results in more diverse and interesting JavaScript meetups, which is reflected in the speakers of events like BrooklynJS, of which there were 102 by the end of 2015.
 
 ![__lucas](blob/master/images/speakers/__lucas.png)
 ![_akievet](blob/master/images/speakers/_akievet.png)
@@ -332,6 +334,8 @@ We did a joint event with CSSConf.
 ![zeejab](blob/master/images/speakers/zeejab.png)
 ![zeigenvector](blob/master/images/speakers/zeigenvector.png)
 ![zertosh](blob/master/images/speakers/zertosh.png)
+
+One of the most satisfying things about organizing BrooklynJS was to see speakers share their first tech talk with us and then go on to the big leagues, getting flown around the world to speak at major conferences. In this sense, BrooklynJS has become a farm team for larger conferences; roughly half of the [Track A speakers at JSConf Last Call][jsconftracka] spoke at BrooklynJS. I didn't really understand it at first, but creating a friendly space in which developers can test out their crazy ideas and find their voice within the larger community is probably one of the most important roles a local tech meetup can fill.
 
 Organizers
 ----------
@@ -446,3 +450,5 @@ Siblings
 [nycresistor]: http://www.nycresistor.com
 [ocooch]: http://www.ocoochhardwoods.com
 [makemode]: http://makemode.co
+[sockclub]: http://custom.sockclub.com
+[jsconftracka]: http://lastcall.jsconf.us/schedule.html

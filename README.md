@@ -359,13 +359,16 @@ Once QueensJS arrived, we created a loose umbrella organization called [BoroJS][
 
 Now that there's a community-run JavaScript event almost every week of any given month, it's much easier for folks in from out of town to drop in, hang out with us, and take some of our enthusiam home with them. [Jason Rhodes][rhodesjason] started [charmCityJS][charmcityjs] in Baltimore [after boroughgramming with us][jasonbrooklynjs], and [after coming to our CSSConf crossover event][visnupbrooklynjs], [Visnu Pitiyanuvath][visnup] started [WaffleJS][wafflejs] in San Francisco, which in turn inprired [Emily Plummer][emplums] and [Max Ogden][denormalize] to kick off [a Portland version][portlandjs].
 
-If you're looking to start a like event in your neck of the woods and are looking for some advice, hit us up in our [Slack backchannel][slack]. A good chunk of the BoroJS community hangs out there, and can probably help you out.
+So if you're looking to start an event in your neck of the woods and are looking for some advice, hit us up in our [Slack backchannel][slack]. A good chunk of the BoroJS community hangs out there, and can probably help you out.
 
-Organizers
+Organizing
 ----------
 
-As BrooklynJS approached its first birthday, I was getting a little burnt out. So I reached out for help [orbitaltalk]
+From finances and ticketing to logistics and development, Brian and I put a lot of work into growing BrooklynJS, and as it approached its first birthday, I was starting to feel a little burnt out. This was probably inevitable; I don't think anyone can create an event worth going to that runs itself on autopilot, and it's really hard being playing the roles of outgoing emcee and detail-oriented organizer at the same time.
 
+Prompted by my community organizing senpai, [Gary Chou][garychou], I mentioned these feelings at the end of [a talk I gave][orbitaltalk] at [Orbital][orbital], the creative space he runs in the Lower East Side. I never really felt comfortable asking folks to help with the administrivia of running BrooklynJS, since it's the least rewarding part, but it didn't matter, because [Willman Duffy][willmanduffy] and [Mariko Kosaka][kosamari] showed up anyway and soon become BrooklynJS's new organizers. They were happy to do the behind the scenes work while Brian and I stayed on as the emcee figureheads, which was a great division of labor and made for a really smooth transition.
+
+Willman and Mariko brought a new energy to the event, putting a renewed focus on speaker and topic diversity, while also flexing their respectively considerable skills in [puns][willmanbeverajs] and [knitting][bgrammingknit]. I felt it was important to stay on for a few months to help with the transition, but probably ended up overstaying my welcome before handing my emcee reins over [Jenn Schiffer][jenschiffer] and my organizer reins over to [Jasmine Greenaway][paladique] at the end of 2015.
 
 [61events]: http://61local.com/events/month
 [61local]: http://www.61local.com
@@ -379,6 +382,7 @@ As BrooklynJS approached its first birthday, I was getting a little burnt out. S
 [bathtubjen]: http://www.jenniferharder.com/bathtub.html
 [beerjs]: https://github.com/beerjs/meta
 [bench]: http://brooklynjs.com/loves/jsconf
+[bgrammingknit]: https://twitter.com/brooklyn_js/status/578612965265530880
 [bgramminglunch]: https://twitter.com/brooklyn_js/status/578591024076967936
 [bkjs2013]: http://www.meetup.com/Brooklyn-Javascript/events/69811692
 [bkjs]: http://www.meetup.com/Brooklyn-Javascript
@@ -406,6 +410,7 @@ As BrooklynJS approached its first birthday, I was getting a little burnt out. S
 [emplums]: https://twitter.com/emplums
 [first commit]: https://github.com/brooklynjs/brooklynjs.github.io/commit/fea182f8223ea7930d197f02a0f6e0ce0aa0f122
 [fourfives]: https://www.youtube.com/playlist?list=PLkByX1-Zh4Eu86cuVTwhiLTg2HD0Ci5sb
+[garychou]: https://twitter.com/garychou
 [hblank]: https://twitter.com/hblank
 [helenhousandi]: https://twitter.com/helenhousandi
 [herndon]: http://www.herndon-va.gov
@@ -426,6 +431,7 @@ As BrooklynJS approached its first birthday, I was getting a little burnt out. S
 [jsconfeu]: http://2013.jsconf.eu
 [jsconftracka]: http://lastcall.jsconf.us/schedule.html
 [kb]: http://www.kombuchabrooklyn.com
+[kosamari]: https://twitter.com/kosamari
 [kriesse]: https://twitter.com/kriesse
 [localroots]: http://localrootsnyc.org
 [logo]: https://github.com/brooklynjs/brooklynjs.github.io/blob/master/logo/logo.png
@@ -446,8 +452,10 @@ As BrooklynJS approached its first birthday, I was getting a little burnt out. S
 [nycresistor]: http://www.nycresistor.com
 [ocooch]: http://www.ocoochhardwoods.com
 [opheliasdaisies]: https://twitter.com/opheliasdaisies
+[orbital]: http://orbital.nyc/2015
 [orbitaltalk]: http://orbital.nyc/2015
 [oslocoffee]: http://www.oslocoffee.com
+[paladique]: https://twitter.com/paladique
 [pascalpp]: https://twitter.com/pascalpp
 [plaque]: https://gist.github.com/jed/c877d42e7d3dae86bc20
 [porta]: http://pizzaporta.com
@@ -481,6 +489,8 @@ As BrooklynJS approached its first birthday, I was getting a little burnt out. S
 [voodootikigod]: https://twitter.com/voodootikigod
 [wafflejs]: https://wafflejs.com
 [willmanbeverajs]: https://twitter.com/jedschmidt/status/615595098605232129
+[willmanbeverajs]: https://twitter.com/jedschmidt/status/615595098605232129
+[willmanduffy]: https://twitter.com/willmanduffy
 [willmanduffy]: https://twitter.com/willmanduffy
 [zaczinger]: http://www.zaczingermusic.com
 [zeejab]: https://twitter.com/zeejab

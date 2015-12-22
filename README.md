@@ -212,6 +212,8 @@ We [reached out to the community][distribution] for advice on the best way to di
 
 So we left tickets at the current price of $15. They usually sell out within minutes, or seconds in the case of a high-demand event, but such is the unfortunate reality of a popular event.
 
+One clever hack we used to ensure that attendees understood the value behind their ticket was to put our entire budget in a [single JavaScript expression][budget]. This way, we could turn widely used open source tools like [GitHub][github] and [Travis][travis] into a fun talking point to convey the rigor of our accounting.
+
 Tickets
 -------
 
@@ -379,7 +381,15 @@ Watching a community like the one we have in JavaScript in New York City has bee
 
 But there is one lesson I've learned from the past two years of helping build a successful community:
 
-**Seek mutual wins to amplify your efforts.**
+**Mutual wins amplify effort.**
+
+In other words, building community became much easier wherever we found situations in which all actors had an ongoing incentive to participate. Here are some examples from my experience:
+
+- It would have been financially safer to let a tech company host BrooklynJS, but because the venue we chose ([61 Local][61local]) has a direct financial incentive to accommodate us, they've helped us immeasurably in growing the event.
+
+- It would have been less challenging to fill speaker slots with developers that look like me (a straight white dude), but diversity is self-sustaining: the best way to attract a wide variety of speakers and attendees is by projecting the variety you seek.
+
+- It would have been simpler to use off-the-shelf paper tickets instead of slaving over a laser cutter to prototype wooden Metrocards, but XXXXXXXXX
 
 TODO
 
@@ -424,6 +434,7 @@ TODO
 [first commit]: https://github.com/brooklynjs/brooklynjs.github.io/commit/fea182f8223ea7930d197f02a0f6e0ce0aa0f122
 [fourfives]: https://www.youtube.com/playlist?list=PLkByX1-Zh4Eu86cuVTwhiLTg2HD0Ci5sb
 [garychou]: https://twitter.com/garychou
+[github]: https://github.com
 [hblank]: https://twitter.com/hblank
 [helenhousandi]: https://twitter.com/helenhousandi
 [herndon]: http://www.herndon-va.gov
@@ -493,6 +504,7 @@ TODO
 [toosmall1]: https://twitter.com/brianvan/status/474922156392849409
 [toosmall2]: https://twitter.com/mmwtsn/status/665190033725374464
 [tootsweet]: https://tootsweetmusic.bandcamp.com
+[travis]: https://travis-ci.org/brooklynjs/brooklynjs.github.io
 [twilio]: https://www.twilio.com
 [txjs]: https://2013.texasjavascript.com
 [vanleeuwen]: http://www.vanleeuwenicecream.com

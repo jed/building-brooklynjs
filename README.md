@@ -337,25 +337,34 @@ While this dynamic may make it harder to stay current in JavaScript compared to 
 
 One of the most satisfying things about organizing BrooklynJS was to see speakers share their first tech talk with us and then go on to the big leagues, getting flown around the world to speak at major conferences. In this sense, BrooklynJS has become a farm team for larger conferences; roughly half of the [Track A speakers at JSConf Last Call][jsconftracka] spoke at BrooklynJS. I didn't really understand it at first, but creating a friendly space in which developers can test out their crazy ideas and find their voice within the larger community is probably one of the most important roles a local tech meetup can fill.
 
+Siblings
+--------
+
+![jerseyscriptusa](blob/master/images/events/jerseyscriptusa.png)
+![manhattan_js](blob/master/images/events/manhattan_js.png)
+![queens_js](blob/master/images/events/queens_js.png)
+![nodebotsnyc](blob/master/images/events/nodebotsnyc.png)
+![wafflejs](blob/master/images/events/wafflejs.png)
+![charmcityjs](blob/master/images/events/charmcityjs.png)
+
+Though BrooklynJS helped reboot New York City's JavaScript community, it wasn't until its siblings arrived that things really started to get fun, as BrooklynJS regulars started to bring their own flavor to sibling events in their corners of the city:
+
+- [ManhattanJS][manhattanjs], by [Zahra][zeejab], [Brenda][brendamarienyc], and [Rushaine][copacetickid], on the 2nd Wednesday of the month. They opt for three longer-format talks of 20 minutes, the last of which is a passion presentation where JavaScripters talk about their non-code hobbies, from improvisational dance to making hot sauce. The event is currently hosted by [Digital Ocean][digitalocean] in Tribeca, with a post-game at [Toad Hall][toadhall].
+
+- [JerseyScript][jerseyscript], by [Jenn][jennschiffer], on the 4th Tuesday of the month. Jenn cuts to the chase and focuses on chilling with fellow developers in Jersey City, first among vintage video games at [Barcade][barcade], and then possibly over karaoke downstairs at [Porta][porta].
+
+- [QueensJS][queensjs], by [Sarah][opheliasdaisies] and [Daniel][dcousineau], on the 1st Wednesday of the month. QueensJS starts with an open buffet (get there early), followed by three 20-minute talks, one of which highlights a first-time speaker. The event takes place upstairs at [Raven's Head Public House][ravenshead] in Astoria, and has its own dedicated bartender.
+
+Once QueensJS arrived, we created a loose umbrella organization called [BoroJS][borojs], which at the end of 2015 also welcomed [Nodebots NYC][nodebots] onboard. A good chunk of regular BoroJS attendees also hang out between events in our [Slack backchannel][slack]. Having a community that clusters around multiple smaller events with their own focus and personality makes the New York City JavaScript ecosystem really dynamic, and probably has the added side benefit of making it harder to kill when an organizer burns out or leaves town.
+
+Now that there's a community-run JavaScript event almost every week of any given month, it's much easier for folks in from out of town to drop in, hang out with us, and take some of our enthusiam home with them. [Jason Rhodes][rhodesjason] started [charmCityJS][charmcityjs] in Baltimore [after boroughgramming with us][jasonbrooklynjs], and [after coming to our CSSConf crossover event][visnupbrooklynjs], [Visnu Pitiyanuvath][visnup] started [WaffleJS][wafflejs] in San Francisco, which in turn inprired [Emily Plummer][emplums] and [Max Ogden][denormalize] to kick off [a Portland version][portlandjs].
+
 Organizers
 ----------
 
 As BrooklynJS approached its first birthday, I was getting a little burnt out. So I reached out for help [orbitaltalk]
 
 [orbitaltalk]: http://orbital.nyc/2015
-
-Siblings
---------
-
-[ManhattanJS][manhattanjs]
-[QueensJS][queensjs]
-[JerseyScript][jerseyscript]
-[Nodebots NYC][nodebots]
-
-<img width=48 height=48 src="https://twitter.com/manhattan_js/profile_image?size=original">
-<img width=48 height=48 src="https://twitter.com/jerseyscriptusa/profile_image?size=original">
-<img width=48 height=48 src="https://twitter.com/queens_js/profile_image?size=original">
-<img width=48 height=48 src="https://raw.githubusercontent.com/nodebots/nodebots.io/gh-pages/logo/nodebot-450x450.png">
 
 [brooklynjs]: http://brooklynjs.com
 [jedschmidt]: https://twitter.com/jedschmidt
@@ -452,3 +461,18 @@ Siblings
 [makemode]: http://makemode.co
 [sockclub]: http://custom.sockclub.com
 [jsconftracka]: http://lastcall.jsconf.us/schedule.html
+[borojs]: http://borojs.com
+[toadhall]: http://www.yelp.com/biz/toad-hall-new-york
+[barcade]: http://barcadejerseycity.com
+[porta]: http://pizzaporta.com
+[ravenshead]: http://www.ravensheadpublichouse.com
+[slack]: http://slack.borojs.com
+[rhodesjason]: https://twitter.com/rhodesjason
+[jasonbrooklynjs]: https://twitter.com/rhodesjason/status/612646988711002112
+[visnup]: https://twitter.com/visnup
+[visnupbrooklynjs]:https://medium.com/@visnup/visiting-brooklyn-js-from-san-francisco-42d9279509e2
+[charmcityjs]: http://charmcityjs.com
+[wafflejs]: https://wafflejs.com
+[portlandjs]: https://github.com/emily-plummer/portland_js
+[emplums]: https://twitter.com/emplums
+[denormalize]: https://twitter.com/denormalize

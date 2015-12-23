@@ -189,6 +189,11 @@ The ability to build a modestly reliable stream of contributions has also allowe
 Sponsors
 --------
 
+<img height=100 src="images/photos/sponsors1.jpg">
+<img height=100 src="images/photos/sponsors2.jpg">
+<img height=100 src="images/photos/sponsors3.jpg">
+<img height=100 src="images/photos/sponsors4.png">
+
 One of the unexpected effects of dedicating sponsorship to an amazing organization like ScriptEd is that it helped focus our efforts, by quantifying our impact. So, instead of simply aiming to break even, we started actively looking for opportunities to raise funds. Fortunately, the seller's job market in tech made that easier, as the value of web developer attention is at an all-time high.
 
 These dynamics allowed us to keep ticket prices below cost for the event itself, so that our donations could be covered entirely by sponsors. The setup that we settled on was three sponsorship slots during the event introduction, at $500 per slot. Each slot allows the developers representing the sponsor (recruiters are not allowed at BrooklynJS) to come up towards the end of the intro and pitch the audience for two minutes. While this may sound pretty dry, the audience is well engaged by the time sponsors appear, and the emcees are on hand to inject any needed repartee to make sure each pitch is edutaining.

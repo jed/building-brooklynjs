@@ -455,6 +455,8 @@ But there is one lesson I've learned from the past two years of helping build a 
 
 So while Brian and I tried our best to create an event worth attending, events are by definition ephemeral. But by seeking mutually positive interactions among attendees, speakers, venues, and the rest of the actors by which events are built, we helped shape a community that will continue to exist long after BrooklynJS is swept up by the garbage collector.
 
+<img height=400 src="images/photos/reflection.jpg">
+
 [61events]: http://61local.com/events/month
 [61local]: http://www.61local.com
 [61menu]: https://twitter.com/61local/status/601119293053476865

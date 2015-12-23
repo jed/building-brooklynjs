@@ -192,7 +192,7 @@ Sponsors
 <img height=100 src="images/photos/sponsors1.jpg">
 <img height=100 src="images/photos/sponsors2.jpg">
 <img height=100 src="images/photos/sponsors3.jpg">
-<img height=100 src="images/photos/sponsors4.png">
+<img height=100 src="images/photos/sponsors4.jpg">
 
 One of the unexpected effects of dedicating sponsorship to an amazing organization like ScriptEd is that it helped focus our efforts, by quantifying our impact. So, instead of simply aiming to break even, we started actively looking for opportunities to raise funds. Fortunately, the seller's job market in tech made that easier, as the value of web developer attention is at an all-time high.
 

@@ -28,7 +28,7 @@ So aside from a handful of small company-specific events, there wasn't much of a
 
 - [TXJS][txjs], my favorite regional JavaScript conference, run by [noted identity thief][jedjs] [Alex Sexton][slexaxton],
 - [JSConf][jsconf], the conference that kicked off the modern JavaScript community as we know it, run by [Chris Williams][voodootikigod],
-- [JSConf EU][jsconfeu], JSConf's European cousin, then run by [Malte Ubl][cramforce], [Holger Blank][hblank], [Jan Lehnardt][janl], and [Tiffany Conroy][theophani]
+- [JSConf EU][jsconfeu], JSConf's European cousin, then run by [Malte Ubl][cramforce], [Holger Blank][hblank], [Jan Lehnardt][janl], and [Tiffany Conroy][theophani],
 - [RejectJS][rejectjs], JSConf EU's first-born son, run by [Robin Mehner][rmehner], and
 - [CSSConf EU][cssconfeu], JSConf EU's little sister, run by [Kristina Schneider][kriesse] and [Michael Pfeiffer][m_p_pfeiffer].
 

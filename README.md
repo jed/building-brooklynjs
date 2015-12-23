@@ -337,6 +337,7 @@ While this dynamic may make it harder to stay current in JavaScript compared to 
 <a href="https://twitter.com/zeigenvector"><img width=48 height=48 src="images/speakers/zeigenvector.png"></a>
 <a href="https://twitter.com/zertosh"><img width=48 height=48 src="images/speakers/zertosh.png"></a>
 
+One of the most satisfying things about organizing BrooklynJS was to see speakers share their first tech talk with us and then go on to the big leagues, getting flown around the world to speak at major conferences. In this sense, BrooklynJS has become a farm team for larger conferences; roughly half of the [Track A speakers at JSConf Last Call][jsconftracka] spoke at BrooklynJS. I didn't really understand it at first, but creating a friendly space in which developers can test out their crazy ideas and find their voice within the larger community is probably one of the most important roles a local tech meetup can fill. Giving good people a platform and watching them meet friends and find work has been incredible to watch.
 
 Siblings
 --------
@@ -384,9 +385,11 @@ But there is one lesson I've learned from the past two years of helping build a 
 
 - It would have been financially safer to let a tech company host BrooklynJS, but because the venue we chose ([61 Local][61local]) has a direct financial incentive to accommodate us, they've helped us immeasurably in growing the event.
 
-- It would have been less challenging to fill speaker slots with developers that look like me (a straight white dude), but diversity is self-sustaining: the best way to attract a wide variety of speakers and attendees is through the social proof of projecting the variety you seek.
+- It would have been less challenging to fill speaker slots with developers that look like me (a straight white dude), but diversity is self-sustaining: the best way to attract a wide variety of speakers and attendees is through the social proof of projecting the variety we sought.
 
 - It would have been simpler to use off-the-shelf paper tickets instead of slaving over a laser cutter to prototype wooden Metrocards, but once we outsourced production, we were able to increase net donations by providing a memento that our attendees actually wanted to keep.
+
+So while Brian and I tried our best to create an event worth attending, events are by definition ephemeral. But by seeking mutually positive interactions among attendees, speakers, venues, and the rest of the actors by which events are built, we helped shape a community that will continue to exist long after BrooklynJS is swept up by the garbage collector.
 
 [61events]: http://61local.com/events/month
 [61local]: http://www.61local.com

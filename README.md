@@ -212,7 +212,7 @@ We [reached out to the community][distribution] for advice on the best way to di
 
 So we left tickets at the current price of $15. They usually sell out within minutes, or seconds in the case of a high-demand event, but such is the unfortunate reality of a popular event.
 
-One clever hack we used to ensure that attendees understood the value behind their ticket was to put our entire budget in a [single JavaScript expression][budget]. This way, we could turn widely used open source tools like [GitHub][github] and [Travis][travis] into a fun talking point to convey the rigor of our accounting.
+One clever hack we used to ensure that attendees understood the value behind their ticket was to put our entire budget in a [single JavaScript expression][budgetjs]. This way, we could turn widely used open source tools like [GitHub][github] and [Travis][travis] into a fun talking point to convey the rigor of our accounting.
 
 Tickets
 -------
@@ -414,7 +414,7 @@ So while Brian and I tried our best to create an event worth attending, events a
 [brianloveswords]: https://twitter.com/brianloveswords
 [brogrammer]: https://en.wikipedia.org/wiki/Brogrammer
 [brooklynjs]: http://brooklynjs.com
-[budgetjs]: https://github.com/brooklynjs/brooklynjs.github.io/budget.js
+[budgetjs]: https://github.com/brooklynjs/brooklynjs.github.io/blob/master/budget.js
 [charmcityjs]: http://charmcityjs.com
 [chosentalks]: https://github.com/brooklynjs/brooklynjs.github.io/issues?q=label%3Aaccepted
 [copacetickid]: https://twitter.com/copacetickid

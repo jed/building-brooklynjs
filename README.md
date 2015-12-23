@@ -249,6 +249,9 @@ The chore of wrangling sponsorships is equally important and unglamorous, but it
 Pricing
 -------
 
+<img height=100 src="images/photos/pricing1.jpg">
+<img height=100 src="images/photos/pricing2.jpg">
+
 Since BrooklynJS started, how to distribute tickets has been a significant source of stress.
 
 For our first event, we initially gave away tickets for free, capping attendance at double the recommended room capacity of 60 seats and relying on attrition to make the math work. This turned out to be a terrible idea; our inaugural event sold out in less than two hours, before many of our friends could sign up. So we sheepishly sent out an email to ticketholders that night, letting them know the ticket price would be upped to $5 the next morning, but giving them first dibs on the new tickets. Since these tickets included a free beverage, the end cost to an attendee actually less than zero, but the friction of requiring a credit card was enough to increase availability by decelerating ticket sales (until the event sold out later that day).

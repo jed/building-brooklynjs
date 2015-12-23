@@ -28,7 +28,7 @@ So aside from a handful of small company-specific events, there wasn't much of a
 
 - [TXJS][txjs], my favorite regional JavaScript conference, run by [noted identity thief][jedjs] [Alex Sexton][slexaxton],
 - [JSConf][jsconf], the conference that kicked off the modern JavaScript community as we know it, run by [Chris Williams][voodootikigod],
-- [JSConf EU][jsconfeu], JSConf's European cousin, then run by [Malte Ubl][cramforce], [Holger Blank][hblank], and [Jan Lehnardt][janl],
+- [JSConf EU][jsconfeu], JSConf's European cousin, then run by [Malte Ubl][cramforce], [Holger Blank][hblank], [Jan Lehnardt][janl], and [Tiffany Conroy][theophani]
 - [RejectJS][rejectjs], JSConf EU's first-born son, run by [Robin Mehner][rmehner], and
 - [CSSConf EU][cssconfeu], JSConf EU's little sister, run by [Kristina Schneider][kriesse] and [Michael Pfeiffer][m_p_pfeiffer].
 
@@ -563,6 +563,7 @@ So while Brian and I tried our best to create an event worth attending, events a
 [sockclub]: http://custom.sockclub.com
 [soda]: http://www.brooklynsodaworks.com
 [stbaldricks]: https://www.stbaldricks.org/fundraisers/mypage/539/2014
+[theophani]: https://twitter.com/theophani
 [thlorenz]: https://twitter.com/thlorenz
 [toadhall]: http://www.yelp.com/biz/toad-hall-new-york
 [toosmall1]: https://twitter.com/brianvan/status/474922156392849409

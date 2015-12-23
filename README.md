@@ -175,7 +175,8 @@ Sponsees
 <img height=100 src="images/photos/sponsees1.jpg">
 <img height=100 src="images/photos/sponsees2.jpg">
 <img height=100 src="images/photos/sponsees3.jpg">
-<img height=100 src="images/photos/sponsees4.jpg">
+<img height=100 src="images/photos/sponsees4.png">
+<img height=100 src="images/photos/sponsees5.jpg">
 
 Like most community-run meetups, profit is not a goal of BrooklynJS. Since holding on to money we've made from tickets or sponsorships would just complicate my taxes, I want to get it off my books as soon as possible.
 

@@ -8,6 +8,11 @@ This is [my][jedschmidt] story of how BrooklynJS came to be.
 Prologue
 --------
 
+<img height=128 src="images/photos/prologue1.jpg">
+<img height=128 src="images/photos/prologue2.jpg">
+<img height=128 src="images/photos/prologue3.jpg">
+<img height=128 src="images/photos/prologue4.jpg">
+
 My BrooklynJS story begins in 10 timezones away in Tokyo, where I was living in 2013. My girlfriend's startup had decided to move their product team to New York City, so we packed up our stuff and moved to Brooklyn.
 
 Though I was a bit sad to leave one of my favorite cities in the world, I was also excited to live in a city where I could hobnob with JavaScript heroes; [John Resig][jeresig] in Park Slope, [Jeremy Ashkenas][jashkenas] in Brooklyn Heights, and [Ryan Dahl][ryah] in Williamsburg.

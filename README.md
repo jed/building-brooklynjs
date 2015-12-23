@@ -397,12 +397,10 @@ Perhaps the most satisfying things about organizing BrooklynJS was to see speake
 Siblings
 --------
 
-<a href="https://twitter.com/jerseyscriptusa"><img width=48 height=48 src="images/events/jerseyscriptusa.png"></a>
-<a href="https://twitter.com/manhattan_js"><img width=48 height=48 src="images/events/manhattan_js.png"></a>
-<a href="https://twitter.com/queens_js"><img width=48 height=48 src="images/events/queens_js.png"></a>
-<a href="https://twitter.com/nodebots"><img width=48 height=48 src="images/events/nodebotsnyc.png"></a>
-<a href="https://twitter.com/charmcityjs"><img width=48 height=48 src="images/events/charmcityjs.png"></a>
-<a href="https://twitter.com/wafflejs"><img width=48 height=48 src="images/events/wafflejs.png"></a>
+<img height=100 src="images/photos/siblings1.jpg">
+<img height=100 src="images/photos/siblings2.jpg">
+<img height=100 src="images/photos/siblings3.jpg">
+<img height=100 src="images/photos/siblings4.jpg">
 
 Though BrooklynJS helped reboot New York City's JavaScript community, it wasn't until its siblings arrived that things really started to get fun, as BrooklynJS regulars started to bring their own flavor to sibling events in their corners of the city:
 

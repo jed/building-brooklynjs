@@ -267,6 +267,12 @@ One clever hack we used to ensure that attendees understood the value behind the
 Tickets
 -------
 
+<img height=100 src="images/photos/tickets1.jpg">
+<img height=100 src="images/photos/tickets2.jpg">
+<img height=100 src="images/photos/tickets3.jpg">
+<img height=100 src="images/photos/tickets4.jpg">
+<img height=100 src="images/photos/tickets5.jpg">
+
 A $15 ticket to BrooklynJS pretty much covers the cost of attendance. Since the very first BrooklynJS, attendees have had a choice: they can either redeem their ticket for a craft beer or other beverage at the bar, or keep it to pass that money on to ScriptEd.
 
 At first we used a standard roll of tickets, giving one to each attendee when they checked in at the door. This worked well enough for the first two months, but we decided to try something new: instead of using a cheap paper ticket, we would make a custom commemorative token that attendees would be more likely to keep. Both Brian and I had wanted to learn more about 3D printing for a while, so we asked [CUBO][cubo], a boutique printing shop in the East Village, to make us 100 custom-printed tokens based on the [old MTA tokens][mtatoken] for our next event. Even though they cost almost $2 more than a paper ticket, if we could get 25 more attendees to hold to their tickets instead of redeeming them for a beer, the tokens would pay for themselves.

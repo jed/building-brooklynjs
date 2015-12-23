@@ -60,6 +60,11 @@ More specifically to our setup, 61 Local has been an incredible partner. From [t
 Talks
 -----
 
+<img height=100 src="images/photos/talks1.jpg">
+<img height=100 src="images/photos/talks2.jpg">
+<img height=100 src="images/photos/talks3.jpg">
+<img height=100 src="images/photos/talks4.jpg">
+
 The core of a BrooklynJS event consists of five lightning talks of ten minutes each, preceded by an intro in which the emcees give some context for the event.
 
 ```

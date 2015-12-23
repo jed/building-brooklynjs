@@ -449,7 +449,7 @@ But there is one lesson I've learned from the past two years of helping build a 
 
 - It would have been financially safer to let a tech company host BrooklynJS, but because the venue we chose ([61 Local][61local]) has a direct financial incentive to accommodate us, they've helped us immeasurably in growing the event.
 
-- It would have been less challenging to fill speaker slots with developers that look like me (a straight white dude), but diversity is self-sustaining: the best way to attract a wide variety of speakers and attendees is through the social proof of projecting the variety we sought.
+- It would have been less challenging to fill speaker slots with developers that look like me (a straight white dude), but diversity is self-sustaining: the best way to attract a wide variety of speakers and attendees was through the social proof of projecting the variety we sought.
 
 - It would have been simpler to use off-the-shelf paper tickets instead of slaving over a laser cutter to prototype wooden Metrocards, but once we outsourced production, we were able to increase net donations by providing a memento that our attendees actually wanted to keep.
 

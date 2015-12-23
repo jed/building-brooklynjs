@@ -116,6 +116,11 @@ Thankfully, resident pun expert [Willman Duffy][willmanduffy] [came up][willmanb
 Music
 -----
 
+<img height=100 src="images/photos/music1.jpg">
+<img height=100 src="images/photos/music2.jpg">
+<img height=100 src="images/photos/music3.jpg">
+<img height=100 src="images/photos/music4.jpg">
+
 As any good web developer knows, the best way to keep users engaged is to minimize the time they spend waiting. The same is true of meetups, and critically so for ones with multiple talks straddled by minutes of the awkward dance of getting arbitrary slideshow software on arbitrary laptops to work with the venue's projector setup. In our case, a few minutes of downtime in each of six gaps between blocks could add up around 20 minutes, or two talks worth of time.
 
 To get around this, we tried two technical solutions. The first was to buy a monitor switcher, so that we could plug in two laptops at the same time and switch between them. This didn't work at all due to the cramped space we have for speakers and the latency in having the projector detect each laptop just made things more awkward. The second was to use an Apple TV and have speakers use AirPlay, but this too suffered from poor latency over the network, not to mention requiring Macs to work and allowing only speakers on the device.

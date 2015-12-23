@@ -8,10 +8,10 @@ This is [my][jedschmidt] story of how BrooklynJS came to be.
 Prologue
 --------
 
-<img height=128 src="images/photos/prologue1.jpg">
-<img height=128 src="images/photos/prologue2.jpg">
-<img height=128 src="images/photos/prologue3.jpg">
-<img height=128 src="images/photos/prologue4.jpg">
+<img height=100 src="images/photos/prologue1.jpg">
+<img height=100 src="images/photos/prologue2.jpg">
+<img height=100 src="images/photos/prologue3.jpg">
+<img height=100 src="images/photos/prologue4.jpg">
 
 My BrooklynJS story begins in 10 timezones away in Tokyo, where I was living in 2013. My girlfriend's startup had decided to move their product team to New York City, so we packed up our stuff and moved to Brooklyn.
 

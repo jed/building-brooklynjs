@@ -86,6 +86,11 @@ For talks that are not chosen, we give the speaker a code to buy a reserved tick
 Social
 ------
 
+<img height=100 src="images/photos/social1.jpg">
+<img height=100 src="images/photos/social2.jpg">
+<img height=100 src="images/photos/social3.jpg">
+<img height=100 src="images/photos/social4.jpg">
+
 Another one of The Good Parts™ of a JSConf event that we wanted to emulate was the "hallway track", where attendees can interact informally outside of scheduled content. So again we took a cue from Chris Williams, and tacked a [beer.js][beerjs] to the end of our event.
 
 ```

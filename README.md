@@ -32,10 +32,20 @@ Each one felt a little like two months of summer camp compressed into a weekend,
 Origin
 ------
 
+<img height=100 src="images/photos/origin1.jpg">
+<img height=100 src="images/photos/origin2.jpg">
+<img height=100 src="images/photos/origin3.jpg">
+<img height=100 src="images/photos/origin4.jpg">
+
 Along my conference travels over the summer, I kept bumping into [Brian J Brennan][brianloveswords], one of Brooklyn's finest humans, who also wanted to bring the feels of a JSConf-type event back home. By 2013, Brian and I had been to a lot of tech events, but only to attend or speak, and not to organize. Since organizing a big conference with the production value of those in the JSConf family seemed like more work than we wanted to take on, we hatched a plan to take the fun of a JSConf event, shrink it down to 8.33333-ish percent of its original size, and spread it across every month of the year. And since Brian and I lived a short walk away from each other, we decided to give our event a local feel and call it _BrooklynJS_. In November of 2013, Brian [registered the domain][icann], and I created [our riff][logo] on Chris William's [JS logo][logojs] and set up [a website][first commit] in the flavor of an [MTA schedule][mta].
 
 Venue
 -----
+
+<img height=100 src="images/photos/prologue1.jpg">
+<img height=100 src="images/photos/prologue2.jpg">
+<img height=100 src="images/photos/prologue3.jpg">
+<img height=100 src="images/photos/prologue4.jpg">
 
 We looked at a few prospective venues, including a bootcamp code school and some startup offices, but settled on the [upstairs room][61upstairs] at [61 Local][61local], a pub in Cobble Hill down the street from my apartment. Though we didn't really know it at the time, choosing 61 Local was one of the best decisions we made. Not only did it help set us apart from the usual tech meetup ambiance of pizza and Coors under fluorescent lights, but it also freed us of the awkwardness of holding an event in a office of a tech company. Companies that host meetups see their role as somewhere between charity, in which venue availability can disappear at the first sign of a hiring freeze or more important event, and opportunism, in which recruiters use their captive audience to foist awkward pitches and boring in-house tech talks.
 

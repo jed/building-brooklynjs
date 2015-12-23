@@ -172,6 +172,11 @@ For me, Boroughgramming is where the BrooklynJS community really started to gel.
 Sponsees
 --------
 
+<img height=100 src="images/photos/sponsees1.jpg">
+<img height=100 src="images/photos/sponsees2.jpg">
+<img height=100 src="images/photos/sponsees3.jpg">
+<img height=100 src="images/photos/sponsees4.jpg">
+
 Like most community-run meetups, profit is not a goal of BrooklynJS. Since holding on to money we've made from tickets or sponsorships would just complicate my taxes, I want to get it off my books as soon as possible.
 
 We looked at several organizations, but soon found a perfect fit in [ScriptEd][scriptedorg], a young non-profit here in the city. Their mission is, [in their words][scriptedmission], to equip "students in under-resourced schools with the fundamental coding skills and professional experiences that together create access to careers in technology". Since developer scarcity is one of the primary reasons tech events like BrooklynJS can attract sponsorship dollars in the first place, it seems right to channel those dollars back to not just creating more developers, but helping broaden the pool of potential developers.

@@ -234,110 +234,109 @@ One of the things I like about JavaScript is that it's a bigger tent than most l
 
 While this dynamic may make it harder to stay current in JavaScript compared to other languages, it also results in more diverse and interesting JavaScript meetups, which is reflected in the speakers of events like BrooklynJS, of which there were 102 by the end of 2015.
 
-![__lucas](images/speakers/__lucas.png)
-![_akievet](images/speakers/_akievet.png)
-![_alastair](images/speakers/_alastair.png)
-![aaronmoodie](images/speakers/aaronmoodie.png)
-![aemkei](images/speakers/aemkei.png)
-![ajdant](images/speakers/ajdant.png)
-![alanmoo](images/speakers/alanmoo.png)
-![am3thyst](images/speakers/am3thyst.png)
-![amasad](images/speakers/amasad.png)
-![annelibby](images/speakers/annelibby.png)
-![aq](images/speakers/aq.png)
-![benjamn](images/speakers/benjamn.png)
-![boucher](images/speakers/boucher.png)
-![brendaneich](images/speakers/brendaneich.png)
-![brittanystoroz](images/speakers/brittanystoroz.png)
-![brycekahle](images/speakers/brycekahle.png)
-![buritica](images/speakers/buritica.png)
-![chriscoyier](images/speakers/chriscoyier.png)
-![coderzach](images/speakers/coderzach.png)
-![copasetickid](images/speakers/copasetickid.png)
-![danordille](images/speakers/danordille.png)
-![dcmotz](images/speakers/dcmotz.png)
-![dcousineau](images/speakers/dcousineau.png)
-![domenic](images/speakers/domenic.png)
-![donohoe](images/speakers/donohoe.png)
-![dphiffer](images/speakers/dphiffer.png)
-![E0M](images/speakers/E0M.png)
-![ericandrewlewis](images/speakers/ericandrewlewis.png)
-![frazelledazzell](images/speakers/frazelledazzell.png)
-![ftrain](images/speakers/ftrain.png)
-![gscottolson](images/speakers/gscottolson.png)
-![hackygolucky](images/speakers/hackygolucky.png)
-![harthvader](images/speakers/harthvader.png)
-![helenhousandi](images/speakers/helenhousandi.png)
-![hichaelmart](images/speakers/hichaelmart.png)
-![hipsterbrown](images/speakers/hipsterbrown.png)
-![hypirlink](images/speakers/hypirlink.png)
-![indexzero](images/speakers/indexzero.png)
-![itsmisscs](images/speakers/itsmisscs.png)
-![jamessocol](images/speakers/jamessocol.png)
-![jandet](images/speakers/jandet.png)
-![janecakemaster](images/speakers/janecakemaster.png)
-![jennschiffer](images/speakers/jennschiffer.png)
-![jeresig](images/speakers/jeresig.png)
-![jlukic](images/speakers/jlukic.png)
-![jschementi](images/speakers/jschementi.png)
-![kandizzy](images/speakers/kandizzy.png)
-![kilmc](images/speakers/kilmc.png)
-![kirbysayshi](images/speakers/kirbysayshi.png)
-![kosamari](images/speakers/kosamari.png)
-![linclark](images/speakers/linclark.png)
-![mando_amador](images/speakers/mando_amador.png)
-![mani_art](images/speakers/mani_art.png)
-![marijnjh](images/speakers/marijnjh.png)
-![maryrosecook](images/speakers/maryrosecook.png)
-![mathisonian](images/speakers/mathisonian.png)
-![mattpodwysocki](images/speakers/mattpodwysocki.png)
-![meredithmmyers](images/speakers/meredithmmyers.png)
-![meyerini](images/speakers/meyerini.png)
-![modernserf](images/speakers/modernserf.png)
-![mroth](images/speakers/mroth.png)
-![mrspeaker](images/speakers/mrspeaker.png)
-![nakajima](images/speakers/nakajima.png)
-![nathanstilwell](images/speakers/nathanstilwell.png)
-![nolanlawson](images/speakers/nolanlawson.png)
-![noopkat](images/speakers/noopkat.png)
-![nsylianteng](images/speakers/nsylianteng.png)
-![ohhoe](images/speakers/ohhoe.png)
-![opheliasdaisies](images/speakers/opheliasdaisies.png)
-![pamasaur](images/speakers/pamasaur.png)
-![peoplespops](images/speakers/peoplespops.png)
-![reconbot](images/speakers/reconbot.png)
-![rememberlenny](images/speakers/rememberlenny.png)
-![renrutnnej](images/speakers/renrutnnej.png)
-![rich_harris](images/speakers/rich_harris.png)
-![richlitt](images/speakers/richlitt.png)
-![rickyrobinett](images/speakers/rickyrobinett.png)
-![ryah](images/speakers/ryah.png)
-![sarajchipps](images/speakers/sarajchipps.png)
-![scottluptowski](images/speakers/scottluptowski.png)
-![seejohnrun](images/speakers/seejohnrun.png)
-![sranso](images/speakers/sranso.png)
-![stefanpenner](images/speakers/stefanpenner.png)
-![stijlist](images/speakers/stijlist.png)
-![strzel_a](images/speakers/strzel_a.png)
-![superandomness](images/speakers/superandomness.png)
-![supersgp](images/speakers/supersgp.png)
-![susanemcg](images/speakers/susanemcg.png)
-![tbuchok](images/speakers/tbuchok.png)
-![thegaw](images/speakers/thegaw.png)
-![theglamp](images/speakers/theglamp.png)
-![thlorenz](images/speakers/thlorenz.png)
-![tinysubversions](images/speakers/tinysubversions.png)
-![vijithassar](images/speakers/vijithassar.png)
-![vinceallenvince](images/speakers/vinceallenvince.png)
-![voodootikigod](images/speakers/voodootikigod.png)
-![whale_eat_squid](images/speakers/whale_eat_squid.png)
-![woolypixel](images/speakers/woolypixel.png)
-![youyuxi](images/speakers/youyuxi.png)
-![zeejab](images/speakers/zeejab.png)
-![zeigenvector](images/speakers/zeigenvector.png)
-![zertosh](images/speakers/zertosh.png)
+<a href="https://twitter.com/__lucas"><img width=48 height=48 src="images/speakers/__lucas.png"></a>
+<a href="https://twitter.com/_akievet"><img width=48 height=48 src="images/speakers/_akievet.png"></a>
+<a href="https://twitter.com/_alastair"><img width=48 height=48 src="images/speakers/_alastair.png"></a>
+<a href="https://twitter.com/aaronmoodie"><img width=48 height=48 src="images/speakers/aaronmoodie.png"></a>
+<a href="https://twitter.com/aemkei"><img width=48 height=48 src="images/speakers/aemkei.png"></a>
+<a href="https://twitter.com/ajdant"><img width=48 height=48 src="images/speakers/ajdant.png"></a>
+<a href="https://twitter.com/alanmoo"><img width=48 height=48 src="images/speakers/alanmoo.png"></a>
+<a href="https://twitter.com/am3thyst"><img width=48 height=48 src="images/speakers/am3thyst.png"></a>
+<a href="https://twitter.com/amasad"><img width=48 height=48 src="images/speakers/amasad.png"></a>
+<a href="https://twitter.com/annelibby"><img width=48 height=48 src="images/speakers/annelibby.png"></a>
+<a href="https://twitter.com/aq"><img width=48 height=48 src="images/speakers/aq.png"></a>
+<a href="https://twitter.com/benjamn"><img width=48 height=48 src="images/speakers/benjamn.png"></a>
+<a href="https://twitter.com/boucher"><img width=48 height=48 src="images/speakers/boucher.png"></a>
+<a href="https://twitter.com/brendaneich"><img width=48 height=48 src="images/speakers/brendaneich.png"></a>
+<a href="https://twitter.com/brittanystoroz"><img width=48 height=48 src="images/speakers/brittanystoroz.png"></a>
+<a href="https://twitter.com/brycekahle"><img width=48 height=48 src="images/speakers/brycekahle.png"></a>
+<a href="https://twitter.com/buritica"><img width=48 height=48 src="images/speakers/buritica.png"></a>
+<a href="https://twitter.com/chriscoyier"><img width=48 height=48 src="images/speakers/chriscoyier.png"></a>
+<a href="https://twitter.com/coderzach"><img width=48 height=48 src="images/speakers/coderzach.png"></a>
+<a href="https://twitter.com/copasetickid"><img width=48 height=48 src="images/speakers/copasetickid.png"></a>
+<a href="https://twitter.com/danordille"><img width=48 height=48 src="images/speakers/danordille.png"></a>
+<a href="https://twitter.com/dcmotz"><img width=48 height=48 src="images/speakers/dcmotz.png"></a>
+<a href="https://twitter.com/dcousineau"><img width=48 height=48 src="images/speakers/dcousineau.png"></a>
+<a href="https://twitter.com/domenic"><img width=48 height=48 src="images/speakers/domenic.png"></a>
+<a href="https://twitter.com/donohoe"><img width=48 height=48 src="images/speakers/donohoe.png"></a>
+<a href="https://twitter.com/dphiffer"><img width=48 height=48 src="images/speakers/dphiffer.png"></a>
+<a href="https://twitter.com/E0M"><img width=48 height=48 src="images/speakers/E0M.png"></a>
+<a href="https://twitter.com/ericandrewlewis"><img width=48 height=48 src="images/speakers/ericandrewlewis.png"></a>
+<a href="https://twitter.com/frazelledazzell"><img width=48 height=48 src="images/speakers/frazelledazzell.png"></a>
+<a href="https://twitter.com/ftrain"><img width=48 height=48 src="images/speakers/ftrain.png"></a>
+<a href="https://twitter.com/gscottolson"><img width=48 height=48 src="images/speakers/gscottolson.png"></a>
+<a href="https://twitter.com/hackygolucky"><img width=48 height=48 src="images/speakers/hackygolucky.png"></a>
+<a href="https://twitter.com/harthvader"><img width=48 height=48 src="images/speakers/harthvader.png"></a>
+<a href="https://twitter.com/helenhousandi"><img width=48 height=48 src="images/speakers/helenhousandi.png"></a>
+<a href="https://twitter.com/hichaelmart"><img width=48 height=48 src="images/speakers/hichaelmart.png"></a>
+<a href="https://twitter.com/hipsterbrown"><img width=48 height=48 src="images/speakers/hipsterbrown.png"></a>
+<a href="https://twitter.com/hypirlink"><img width=48 height=48 src="images/speakers/hypirlink.png"></a>
+<a href="https://twitter.com/indexzero"><img width=48 height=48 src="images/speakers/indexzero.png"></a>
+<a href="https://twitter.com/itsmisscs"><img width=48 height=48 src="images/speakers/itsmisscs.png"></a>
+<a href="https://twitter.com/jamessocol"><img width=48 height=48 src="images/speakers/jamessocol.png"></a>
+<a href="https://twitter.com/jandet"><img width=48 height=48 src="images/speakers/jandet.png"></a>
+<a href="https://twitter.com/janecakemaster"><img width=48 height=48 src="images/speakers/janecakemaster.png"></a>
+<a href="https://twitter.com/jennschiffer"><img width=48 height=48 src="images/speakers/jennschiffer.png"></a>
+<a href="https://twitter.com/jeresig"><img width=48 height=48 src="images/speakers/jeresig.png"></a>
+<a href="https://twitter.com/jlukic"><img width=48 height=48 src="images/speakers/jlukic.png"></a>
+<a href="https://twitter.com/jschementi"><img width=48 height=48 src="images/speakers/jschementi.png"></a>
+<a href="https://twitter.com/kandizzy"><img width=48 height=48 src="images/speakers/kandizzy.png"></a>
+<a href="https://twitter.com/kilmc"><img width=48 height=48 src="images/speakers/kilmc.png"></a>
+<a href="https://twitter.com/kirbysayshi"><img width=48 height=48 src="images/speakers/kirbysayshi.png"></a>
+<a href="https://twitter.com/kosamari"><img width=48 height=48 src="images/speakers/kosamari.png"></a>
+<a href="https://twitter.com/linclark"><img width=48 height=48 src="images/speakers/linclark.png"></a>
+<a href="https://twitter.com/mando_amador"><img width=48 height=48 src="images/speakers/mando_amador.png"></a>
+<a href="https://twitter.com/mani_art"><img width=48 height=48 src="images/speakers/mani_art.png"></a>
+<a href="https://twitter.com/marijnjh"><img width=48 height=48 src="images/speakers/marijnjh.png"></a>
+<a href="https://twitter.com/maryrosecook"><img width=48 height=48 src="images/speakers/maryrosecook.png"></a>
+<a href="https://twitter.com/mathisonian"><img width=48 height=48 src="images/speakers/mathisonian.png"></a>
+<a href="https://twitter.com/mattpodwysocki"><img width=48 height=48 src="images/speakers/mattpodwysocki.png"></a>
+<a href="https://twitter.com/meredithmmyers"><img width=48 height=48 src="images/speakers/meredithmmyers.png"></a>
+<a href="https://twitter.com/meyerini"><img width=48 height=48 src="images/speakers/meyerini.png"></a>
+<a href="https://twitter.com/modernserf"><img width=48 height=48 src="images/speakers/modernserf.png"></a>
+<a href="https://twitter.com/mroth"><img width=48 height=48 src="images/speakers/mroth.png"></a>
+<a href="https://twitter.com/mrspeaker"><img width=48 height=48 src="images/speakers/mrspeaker.png"></a>
+<a href="https://twitter.com/nakajima"><img width=48 height=48 src="images/speakers/nakajima.png"></a>
+<a href="https://twitter.com/nathanstilwell"><img width=48 height=48 src="images/speakers/nathanstilwell.png"></a>
+<a href="https://twitter.com/nolanlawson"><img width=48 height=48 src="images/speakers/nolanlawson.png"></a>
+<a href="https://twitter.com/noopkat"><img width=48 height=48 src="images/speakers/noopkat.png"></a>
+<a href="https://twitter.com/nsylianteng"><img width=48 height=48 src="images/speakers/nsylianteng.png"></a>
+<a href="https://twitter.com/ohhoe"><img width=48 height=48 src="images/speakers/ohhoe.png"></a>
+<a href="https://twitter.com/opheliasdaisies"><img width=48 height=48 src="images/speakers/opheliasdaisies.png"></a>
+<a href="https://twitter.com/pamasaur"><img width=48 height=48 src="images/speakers/pamasaur.png"></a>
+<a href="https://twitter.com/peoplespops"><img width=48 height=48 src="images/speakers/peoplespops.png"></a>
+<a href="https://twitter.com/reconbot"><img width=48 height=48 src="images/speakers/reconbot.png"></a>
+<a href="https://twitter.com/rememberlenny"><img width=48 height=48 src="images/speakers/rememberlenny.png"></a>
+<a href="https://twitter.com/renrutnnej"><img width=48 height=48 src="images/speakers/renrutnnej.png"></a>
+<a href="https://twitter.com/rich_harris"><img width=48 height=48 src="images/speakers/rich_harris.png"></a>
+<a href="https://twitter.com/richlitt"><img width=48 height=48 src="images/speakers/richlitt.png"></a>
+<a href="https://twitter.com/rickyrobinett"><img width=48 height=48 src="images/speakers/rickyrobinett.png"></a>
+<a href="https://twitter.com/ryah"><img width=48 height=48 src="images/speakers/ryah.png"></a>
+<a href="https://twitter.com/sarajchipps"><img width=48 height=48 src="images/speakers/sarajchipps.png"></a>
+<a href="https://twitter.com/scottluptowski"><img width=48 height=48 src="images/speakers/scottluptowski.png"></a>
+<a href="https://twitter.com/seejohnrun"><img width=48 height=48 src="images/speakers/seejohnrun.png"></a>
+<a href="https://twitter.com/sranso"><img width=48 height=48 src="images/speakers/sranso.png"></a>
+<a href="https://twitter.com/stefanpenner"><img width=48 height=48 src="images/speakers/stefanpenner.png"></a>
+<a href="https://twitter.com/stijlist"><img width=48 height=48 src="images/speakers/stijlist.png"></a>
+<a href="https://twitter.com/strzel_a"><img width=48 height=48 src="images/speakers/strzel_a.png"></a>
+<a href="https://twitter.com/superandomness"><img width=48 height=48 src="images/speakers/superandomness.png"></a>
+<a href="https://twitter.com/supersgp"><img width=48 height=48 src="images/speakers/supersgp.png"></a>
+<a href="https://twitter.com/susanemcg"><img width=48 height=48 src="images/speakers/susanemcg.png"></a>
+<a href="https://twitter.com/tbuchok"><img width=48 height=48 src="images/speakers/tbuchok.png"></a>
+<a href="https://twitter.com/thegaw"><img width=48 height=48 src="images/speakers/thegaw.png"></a>
+<a href="https://twitter.com/theglamp"><img width=48 height=48 src="images/speakers/theglamp.png"></a>
+<a href="https://twitter.com/thlorenz"><img width=48 height=48 src="images/speakers/thlorenz.png"></a>
+<a href="https://twitter.com/tinysubversions"><img width=48 height=48 src="images/speakers/tinysubversions.png"></a>
+<a href="https://twitter.com/vijithassar"><img width=48 height=48 src="images/speakers/vijithassar.png"></a>
+<a href="https://twitter.com/vinceallenvince"><img width=48 height=48 src="images/speakers/vinceallenvince.png"></a>
+<a href="https://twitter.com/voodootikigod"><img width=48 height=48 src="images/speakers/voodootikigod.png"></a>
+<a href="https://twitter.com/whale_eat_squid"><img width=48 height=48 src="images/speakers/whale_eat_squid.png"></a>
+<a href="https://twitter.com/woolypixel"><img width=48 height=48 src="images/speakers/woolypixel.png"></a>
+<a href="https://twitter.com/youyuxi"><img width=48 height=48 src="images/speakers/youyuxi.png"></a>
+<a href="https://twitter.com/zeejab"><img width=48 height=48 src="images/speakers/zeejab.png"></a>
+<a href="https://twitter.com/zeigenvector"><img width=48 height=48 src="images/speakers/zeigenvector.png"></a>
+<a href="https://twitter.com/zertosh"><img width=48 height=48 src="images/speakers/zertosh.png"></a>
 
-One of the most satisfying things about organizing BrooklynJS was to see speakers share their first tech talk with us and then go on to the big leagues, getting flown around the world to speak at major conferences. In this sense, BrooklynJS has become a farm team for larger conferences; roughly half of the [Track A speakers at JSConf Last Call][jsconftracka] spoke at BrooklynJS. I didn't really understand it at first, but creating a friendly space in which developers can test out their crazy ideas and find their voice within the larger community is probably one of the most important roles a local tech meetup can fill.
 
 Siblings
 --------

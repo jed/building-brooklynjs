@@ -522,7 +522,7 @@ So while Brian and I tried our best to create an event worth attending, events a
 [kosamari]: https://twitter.com/kosamari
 [kriesse]: https://twitter.com/kriesse
 [localroots]: http://localrootsnyc.org
-[logo]: https://github.com/brooklynjs/brooklynjs.github.io/logo/logo.png
+[logo]: https://raw.githubusercontent.com/brooklynjs/brooklynjs.github.io/master/logo/logo.png
 [logojs]: https://github.com/voodootikigod/logo.js
 [m_p_pfeiffer]: https://twitter.com/m_p_pfeiffer
 [makemode]: http://makemode.co

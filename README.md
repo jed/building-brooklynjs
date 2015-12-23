@@ -271,7 +271,6 @@ Tickets
 <img height=100 src="images/photos/tickets2.jpg">
 <img height=100 src="images/photos/tickets3.jpg">
 <img height=100 src="images/photos/tickets4.jpg">
-<img height=100 src="images/photos/tickets5.jpg">
 
 A $15 ticket to BrooklynJS pretty much covers the cost of attendance. Since the very first BrooklynJS, attendees have had a choice: they can either redeem their ticket for a craft beer or other beverage at the bar, or keep it to pass that money on to ScriptEd.
 

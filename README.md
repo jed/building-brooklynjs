@@ -285,10 +285,6 @@ For our second birthday, we also surprised ticketholders with free BrooklynJS so
 Speakers
 --------
 
-One of the things I like about JavaScript is that it's a bigger tent than most languages, used by developers in fields from design to databases to robotics. And the community is pretty fluid; for every developer moving out for the predictability of Go that doesn't come easy in JavaScript, there's a new developer moving in for the power of JavaScript that doesn't come easy in CSS.
-
-While this dynamic may make it harder to stay current in JavaScript compared to other languages, it also results in more diverse and interesting JavaScript meetups, which is reflected in the speakers of events like BrooklynJS, of which there were 102 by the end of 2015.
-
 <a href="https://twitter.com/__lucas"><img width=48 height=48 src="images/speakers/__lucas.png"></a>
 <a href="https://twitter.com/_akievet"><img width=48 height=48 src="images/speakers/_akievet.png"></a>
 <a href="https://twitter.com/_alastair"><img width=48 height=48 src="images/speakers/_alastair.png"></a>
@@ -392,7 +388,11 @@ While this dynamic may make it harder to stay current in JavaScript compared to 
 <a href="https://twitter.com/zeigenvector"><img width=48 height=48 src="images/speakers/zeigenvector.png"></a>
 <a href="https://twitter.com/zertosh"><img width=48 height=48 src="images/speakers/zertosh.png"></a>
 
-One of the most satisfying things about organizing BrooklynJS was to see speakers share their first tech talk with us and then go on to the big leagues, getting flown around the world to speak at major conferences. In this sense, BrooklynJS has become a farm team for larger conferences; roughly half of the [Track A speakers at JSConf Last Call][jsconftracka] spoke at BrooklynJS. I didn't really understand it at first, but creating a friendly space in which developers can test out their crazy ideas and find their voice within the larger community is probably one of the most important roles a local tech meetup can fill. Giving good people a platform and watching them meet friends and find work has been incredible to watch.
+One of the things I like about JavaScript is that it's a bigger tent than most languages, used by developers in fields from design to databases to robotics. And the community is pretty fluid; for every developer moving out for the predictability of Go that doesn't come easy in JavaScript, there's a new developer moving in for the power of JavaScript that doesn't come easy in CSS.
+
+While this dynamic may make it harder to stay current in JavaScript compared to other languages, it also results in more diverse and interesting JavaScript meetups, which is reflected in the speakers of events like BrooklynJS, of which there were 102 by the end of 2015.
+
+Perhaps the most satisfying things about organizing BrooklynJS was to see speakers share their first tech talk with us and then go on to the big leagues, getting flown around the world to speak at major conferences. In this sense, BrooklynJS has become a farm team for larger conferences; roughly half of the [Track A speakers at JSConf Last Call][jsconftracka] spoke at BrooklynJS. I didn't really understand it at first, but creating a friendly space in which developers can test out their crazy ideas and find their voice within the larger community is probably one of the most important roles a local tech meetup can fill. Giving good people a platform and watching them meet friends and find work has been incredible to watch.
 
 Siblings
 --------

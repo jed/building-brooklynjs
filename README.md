@@ -419,6 +419,11 @@ So if you're looking to start an event in your neck of the woods and are looking
 Organizing
 ----------
 
+<img height=100 src="images/photos/organizing1.jpg">
+<img height=100 src="images/photos/organizing2.jpg">
+<img height=100 src="images/photos/organizing3.jpg">
+<img height=100 src="images/photos/organizing4.jpg">
+
 From finances and ticketing to logistics and development, Brian and I put a lot of work into growing BrooklynJS, in aggregate likely close to that needed to run a conference. As BrooklynJS approached its first birthday, I was starting to feel a little burnt out, which was probably inevitable. I don't think anyone can create an event worth going to that runs itself on autopilot, and it's really hard being playing the roles of outgoing emcee and detail-oriented organizer at the same time.
 
 Prompted by my community organizing senpai, [Gary Chou][garychou], I mentioned these feelings at the end of [a talk I gave][orbitaltalk] at [Orbital][orbital], the creative space he runs in the Lower East Side. I never really felt comfortable asking folks to help with the administrivia of running BrooklynJS, since it's the least rewarding part, but it didn't matter, because [Willman Duffy][willmanduffy] and [Mariko Kosaka][kosamari] showed up anyway and soon become BrooklynJS's new organizers. They were happy to do the behind the scenes work while Brian and I stayed on as the emcee figureheads, which was a great division of labor and made for a really smooth transition.

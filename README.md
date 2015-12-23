@@ -1,3 +1,5 @@
+<img height=400 src="images/photos/building.jpg">
+
 Building BrooklynJS
 ===================
 

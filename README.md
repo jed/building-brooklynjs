@@ -1,10 +1,10 @@
+Building BrooklynJS
+===================
+
 <img height=100 src="images/photos/building1.jpg">
 <img height=100 src="images/photos/building2.jpg">
 <img height=100 src="images/photos/building3.jpg">
 <img height=100 src="images/photos/building4.jpg">
-
-Building BrooklynJS
-===================
 
 [BrooklynJS][brooklynjs] is a monthly JavaScript event that takes place in Brooklyn, New York. From its start in November 2013 until this was written in December 2015, BrooklynJS had showcased 102 speakers and 15 musical guests for thousands of attendees, who along with 45 sponsors helped raise over $36,000. It grew alongside a new community of JavaScripters that has become one of the most vibrant in the world.
 

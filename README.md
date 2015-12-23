@@ -42,10 +42,10 @@ Along my conference travels over the summer, I kept bumping into [Brian J Brenna
 Venue
 -----
 
-<img height=100 src="images/photos/prologue1.jpg">
-<img height=100 src="images/photos/prologue2.jpg">
-<img height=100 src="images/photos/prologue3.jpg">
-<img height=100 src="images/photos/prologue4.jpg">
+<img height=100 src="images/photos/venue1.jpg">
+<img height=100 src="images/photos/venue2.jpg">
+<img height=100 src="images/photos/venue3.jpg">
+<img height=100 src="images/photos/venue4.jpg">
 
 We looked at a few prospective venues, including a bootcamp code school and some startup offices, but settled on the [upstairs room][61upstairs] at [61 Local][61local], a pub in Cobble Hill down the street from my apartment. Though we didn't really know it at the time, choosing 61 Local was one of the best decisions we made. Not only did it help set us apart from the usual tech meetup ambiance of pizza and Coors under fluorescent lights, but it also freed us of the awkwardness of holding an event in a office of a tech company. Companies that host meetups see their role as somewhere between charity, in which venue availability can disappear at the first sign of a hiring freeze or more important event, and opportunism, in which recruiters use their captive audience to foist awkward pitches and boring in-house tech talks.
 

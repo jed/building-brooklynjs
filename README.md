@@ -381,17 +381,13 @@ Watching a community like the one we have in JavaScript in New York City has bee
 
 But there is one lesson I've learned from the past two years of helping build a successful community:
 
-**Mutual wins amplify effort.**
-
-In other words, building community became much easier wherever we found situations in which all actors had an ongoing incentive to participate. Here are some examples from my experience:
+**Mutual wins amplify effort.** In other words, building community became much easier wherever we found situations in which all actors had an ongoing incentive to participate. Here are some examples from my experience:
 
 - It would have been financially safer to let a tech company host BrooklynJS, but because the venue we chose ([61 Local][61local]) has a direct financial incentive to accommodate us, they've helped us immeasurably in growing the event.
 
-- It would have been less challenging to fill speaker slots with developers that look like me (a straight white dude), but diversity is self-sustaining: the best way to attract a wide variety of speakers and attendees is by projecting the variety you seek.
+- It would have been less challenging to fill speaker slots with developers that look like me (a straight white dude), but diversity is self-sustaining: the best way to attract a wide variety of speakers and attendees is through the social proof of projecting the variety you seek.
 
-- It would have been simpler to use off-the-shelf paper tickets instead of slaving over a laser cutter to prototype wooden Metrocards, but XXXXXXXXX
-
-TODO
+- It would have been simpler to use off-the-shelf paper tickets instead of slaving over a laser cutter to prototype wooden Metrocards, but once we outsourced production, we were able to increase net donations by providing a memento that our attendees actually wanted to keep.
 
 [61events]: http://61local.com/events/month
 [61local]: http://www.61local.com
@@ -514,8 +510,6 @@ TODO
 [voodootikigod]: https://twitter.com/voodootikigod
 [wafflejs]: https://wafflejs.com
 [willmanbeverajs]: https://twitter.com/jedschmidt/status/615595098605232129
-[willmanbeverajs]: https://twitter.com/jedschmidt/status/615595098605232129
-[willmanduffy]: https://twitter.com/willmanduffy
 [willmanduffy]: https://twitter.com/willmanduffy
 [zaczinger]: http://www.zaczingermusic.com
 [zeejab]: https://twitter.com/zeejab

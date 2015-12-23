@@ -154,48 +154,48 @@ These dynamics allowed us to keep ticket prices below cost for the event itself,
 
 As of the end of 2015, we had more than 40 sponsors participate:
 
-![github](images/sponsors/github.png)
-![crushlovely](images/sponsors/crushlovely.png)
-![nodejitsu](images/sponsors/nodejitsu.png)
-![digitalocean](images/sponsors/digitalocean.png)
-![harvest](images/sponsors/harvest.png)
-![etsy](images/sponsors/etsy.png)
-![hugeinc](images/sponsors/hugeinc.png)
-![bocoup](images/sponsors/bocoup.png)
-![tumblreng](images/sponsors/tumblreng.png)
-![sfxii](images/sponsors/sfxii.png)
-![spotify](images/sponsors/spotify.png)
-![twilio](images/sponsors/twilio.png)
-![chartbeat](images/sponsors/chartbeat.png)
-![policymic](images/sponsors/policymic.png)
-![yuzubn](images/sponsors/yuzubn.png)
-![fivethirtyeight](images/sponsors/fivethirtyeight.png)
-![nytdevs](images/sponsors/nytdevs.png)
-![bloomberg](images/sponsors/bloomberg.png)
-![empirejs](images/sponsors/empirejs.png)
-![10up](images/sponsors/10up.png)
-![jibe](images/sponsors/jibe.png)
-![newyorker](images/sponsors/newyorker.png)
-![barkbox](images/sponsors/barkbox.png)
-![sefaira](images/sponsors/sefaira.png)
-![pivotal](images/sponsors/pivotal.png)
-![dropbox](images/sponsors/dropbox.png)
-![genius](images/sponsors/genius.png)
-![scripto](images/sponsors/scripto.png)
-![autodesk](images/sponsors/autodesk.png)
-![thehackerati](images/sponsors/thehackerati.png)
-![oscarhealth](images/sponsors/oscarhealth.png)
-![namelyhr](images/sponsors/namelyhr.png)
-![classpass](images/sponsors/classpass.png)
-![transloadit](images/sponsors/transloadit.png)
-![asana](images/sponsors/asana.png)
-![blockchain](images/sponsors/blockchain.png)
-![mozilla](images/sponsors/mozilla.png)
-![adfin](images/sponsors/adfin.png)
-![nymag](images/sponsors/nymag.png)
-![ride](images/sponsors/ride.png)
-![_relayfm](images/sponsors/_relayfm.png)
-![StrideDev](images/sponsors/StrideDev.png)
+<a href="https://twitter.com/github"><img width=48 height=48 src="images/sponsors/github.png"></a>
+<a href="https://twitter.com/crushlovely"><img width=48 height=48 src="images/sponsors/crushlovely.png"></a>
+<a href="https://twitter.com/nodejitsu"><img width=48 height=48 src="images/sponsors/nodejitsu.png"></a>
+<a href="https://twitter.com/digitalocean"><img width=48 height=48 src="images/sponsors/digitalocean.png"></a>
+<a href="https://twitter.com/harvest"><img width=48 height=48 src="images/sponsors/harvest.png"></a>
+<a href="https://twitter.com/etsy"><img width=48 height=48 src="images/sponsors/etsy.png"></a>
+<a href="https://twitter.com/hugeinc"><img width=48 height=48 src="images/sponsors/hugeinc.png"></a>
+<a href="https://twitter.com/bocoup"><img width=48 height=48 src="images/sponsors/bocoup.png"></a>
+<a href="https://twitter.com/tumblreng"><img width=48 height=48 src="images/sponsors/tumblreng.png"></a>
+<a href="https://twitter.com/sfxii"><img width=48 height=48 src="images/sponsors/sfxii.png"></a>
+<a href="https://twitter.com/spotify"><img width=48 height=48 src="images/sponsors/spotify.png"></a>
+<a href="https://twitter.com/twilio"><img width=48 height=48 src="images/sponsors/twilio.png"></a>
+<a href="https://twitter.com/chartbeat"><img width=48 height=48 src="images/sponsors/chartbeat.png"></a>
+<a href="https://twitter.com/policymic"><img width=48 height=48 src="images/sponsors/policymic.png"></a>
+<a href="https://yuzu.com"><img width=48 height=48 src="images/sponsors/yuzubn.png"></a>
+<a href="https://twitter.com/fivethirtyeight"><img width=48 height=48 src="images/sponsors/fivethirtyeight.png"></a>
+<a href="https://twitter.com/nytdevs"><img width=48 height=48 src="images/sponsors/nytdevs.png"></a>
+<a href="https://twitter.com/bloomberg"><img width=48 height=48 src="images/sponsors/bloomberg.png"></a>
+<a href="https://twitter.com/empirejs"><img width=48 height=48 src="images/sponsors/empirejs.png"></a>
+<a href="https://twitter.com/10up"><img width=48 height=48 src="images/sponsors/10up.png"></a>
+<a href="https://twitter.com/jibe"><img width=48 height=48 src="images/sponsors/jibe.png"></a>
+<a href="https://twitter.com/newyorker"><img width=48 height=48 src="images/sponsors/newyorker.png"></a>
+<a href="https://twitter.com/barkbox"><img width=48 height=48 src="images/sponsors/barkbox.png"></a>
+<a href="https://twitter.com/sefaira"><img width=48 height=48 src="images/sponsors/sefaira.png"></a>
+<a href="https://twitter.com/pivotal"><img width=48 height=48 src="images/sponsors/pivotal.png"></a>
+<a href="https://twitter.com/dropbox"><img width=48 height=48 src="images/sponsors/dropbox.png"></a>
+<a href="https://twitter.com/genius"><img width=48 height=48 src="images/sponsors/genius.png"></a>
+<a href="http://scripto.cc"><img width=48 height=48 src="images/sponsors/scripto.png"></a>
+<a href="https://twitter.com/autodesk"><img width=48 height=48 src="images/sponsors/autodesk.png"></a>
+<a href="https://twitter.com/thehackerati"><img width=48 height=48 src="images/sponsors/thehackerati.png"></a>
+<a href="https://twitter.com/oscarhealth"><img width=48 height=48 src="images/sponsors/oscarhealth.png"></a>
+<a href="https://twitter.com/namelyhr"><img width=48 height=48 src="images/sponsors/namelyhr.png"></a>
+<a href="https://twitter.com/classpass"><img width=48 height=48 src="images/sponsors/classpass.png"></a>
+<a href="https://twitter.com/transloadit"><img width=48 height=48 src="images/sponsors/transloadit.png"></a>
+<a href="https://twitter.com/asana"><img width=48 height=48 src="images/sponsors/asana.png"></a>
+<a href="https://twitter.com/blockchain"><img width=48 height=48 src="images/sponsors/blockchain.png"></a>
+<a href="https://twitter.com/mozilla"><img width=48 height=48 src="images/sponsors/mozilla.png"></a>
+<a href="https://twitter.com/adfin"><img width=48 height=48 src="images/sponsors/adfin.png"></a>
+<a href="https://twitter.com/nymag"><img width=48 height=48 src="images/sponsors/nymag.png"></a>
+<a href="https://twitter.com/ride"><img width=48 height=48 src="images/sponsors/ride.png"></a>
+<a href="https://twitter.com/_relayfm"><img width=48 height=48 src="images/sponsors/_relayfm.png"></a>
+<a href="https://twitter.com/StrideDev"><img width=48 height=48 src="images/sponsors/StrideDev.png"></a>
 
 The chore of wrangling sponsorships is equally important and unglamorous, but it has grown easier as our event has become better known in the community. We started securing larger multi-month partnerships from developer-focused sponsors like [Digital Ocean][digitalocean] and [Twilio][twilio], which has reduced the burden of seeking out sponsors, and let us focus on more creative endeavors. More importantly, we started seeing sponsor leads come from within our community of developers, many of which had asked their employer to sponsor. Sponsorships like these are great, since pitches from developers already in our community are even more credible and effective.
 
@@ -342,12 +342,12 @@ One of the most satisfying things about organizing BrooklynJS was to see speaker
 Siblings
 --------
 
-![jerseyscriptusa](images/events/jerseyscriptusa.png)
-![manhattan_js](images/events/manhattan_js.png)
-![queens_js](images/events/queens_js.png)
-![nodebotsnyc](images/events/nodebotsnyc.png)
-![wafflejs](images/events/wafflejs.png)
-![charmcityjs](images/events/charmcityjs.png)
+<a href="https://twitter.com/jerseyscriptusa"><img width=48 height=48 src="images/events/jerseyscriptusa.png"></a>
+<a href="https://twitter.com/manhattan_js"><img width=48 height=48 src="images/events/manhattan_js.png"></a>
+<a href="https://twitter.com/queens_js"><img width=48 height=48 src="images/events/queens_js.png"></a>
+<a href="https://twitter.com/nodebots"><img width=48 height=48 src="images/events/nodebotsnyc.png"></a>
+<a href="https://twitter.com/charmcityjs"><img width=48 height=48 src="images/events/charmcityjs.png"></a>
+<a href="https://twitter.com/wafflejs"><img width=48 height=48 src="images/events/wafflejs.png"></a>
 
 Though BrooklynJS helped reboot New York City's JavaScript community, it wasn't until its siblings arrived that things really started to get fun, as BrooklynJS regulars started to bring their own flavor to sibling events in their corners of the city:
 

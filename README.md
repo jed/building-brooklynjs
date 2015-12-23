@@ -1,4 +1,7 @@
-<img height=400 src="images/photos/building.jpg">
+<img height=100 src="images/photos/building1.jpg">
+<img height=100 src="images/photos/building2.jpg">
+<img height=100 src="images/photos/building3.jpg">
+<img height=100 src="images/photos/building4.jpg">
 
 Building BrooklynJS
 ===================
@@ -425,6 +428,7 @@ Organizing
 <img height=100 src="images/photos/organizing2.jpg">
 <img height=100 src="images/photos/organizing3.jpg">
 <img height=100 src="images/photos/organizing4.jpg">
+<img height=100 src="images/photos/organizing5.jpg">
 
 From finances and ticketing to logistics and development, Brian and I put a lot of work into growing BrooklynJS, in aggregate likely close to that needed to run a conference. As BrooklynJS approached its first birthday, I was starting to feel a little burnt out, which was probably inevitable. I don't think anyone can create an event worth going to that runs itself on autopilot, and it's really hard being playing the roles of outgoing emcee and detail-oriented organizer at the same time.
 

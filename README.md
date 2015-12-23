@@ -148,6 +148,11 @@ I think adding music to the event was the most effective thing we did to form ou
 Coworking
 ---------
 
+<img height=100 src="images/photos/coworking1.jpg">
+<img height=100 src="images/photos/coworking2.jpg">
+<img height=100 src="images/photos/coworking3.jpg">
+<img height=100 src="images/photos/coworking4.jpg">
+
 Five months into its existence in March 2014, BrooklynJS had neared its final form, but there was still one more thing to add. Even though we were packing a lively crowd of 100 people into a space designed for 60 all evening, that same space was empty for the rest of the day. So we struck a good deal with 61 Local where we got to use the space for the entire day, and they got to cater our lunch, and created [Boroughgramming][boroughgramming] (not to be confused with [Brogramming][brogrammer]).
 
 ```

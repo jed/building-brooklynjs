@@ -54,13 +54,13 @@ Venue
 
 We looked at a few prospective venues, including a bootcamp code school and some startup offices, but settled on the [upstairs room][61upstairs] at [61 Local][61local], a pub in Cobble Hill down the street from my apartment. Though we didn't really know it at the time, choosing 61 Local was one of the best decisions we made. Not only did it help set us apart from the usual tech meetup ambiance of pizza and Coors under fluorescent lights, but it also freed us of the awkwardness of holding an event in a office of a tech company. Companies that host meetups see their role as somewhere between charity, in which venue availability can disappear at the first sign of a hiring freeze or more important event, and opportunism, in which recruiters use their captive audience to foist awkward pitches and boring in-house tech talks.
 
-Having our event in a space unencumbered by the agenda of our host meant that we had more freedom to control the tone and personality of our event, to make it more engaging such as by adding music and comedy. But perhaps more importantly, it also presented a symbiotic relationship in which we bring a diverse crowd of a hundred thirsty developers (as in software, not as in Wall Street, an important distinction in New York City) in exchange for a creative space that we can call our own once a month.
+Having our event in a space unencumbered by the agenda of our host meant that we had more freedom to control the tone and personality of our event, to make it more engaging such as by adding music and comedy. But perhaps more importantly, it also presented a symbiotic relationship in which we bring a diverse crowd of a hundred thirsty developers (as in software, not as in real estate, an important distinction in New York City) in exchange for a creative space that we can call our own once a month.
 
 Having a win-win relationship like this was one of the biggest factors in the success of the event. Because our interests were mutually aligned, 61 Local was happy to set aside the space on the same day every month, and would schedule and invoice us accordingly, reducing the busywork of running a meetup in a potentially ephemeral venue. And keeping the event timing predictable in both time (third Thursday of the month) and space (61 Bergen Street) also made it easier for other related events to slot in around us without conflict, and for us to dependably book out-of-town speakers in advance.
 
 More specifically to our setup, 61 Local has been an incredible partner. From [the local CSA][localroots] to [their calendar full of interesting events][61events], you can tell they're wired for community. Get there early enough and you can see laptoppers in the morning give way to parents in the afternoon and then professionals in the evening, enjoying their [rotating roster][drinklocal] of local craft beer, kombucha, and soda.
 
-61 Local's focus on their community has made it easier for us to focus on ours. When their Internet buckled under the load of a hundred nerds, they installed FiOS and a new WiFi endpoint. When their kitchen strained under the load of a hundred mouths, they created a [custom branded menu][61menu] optimized for throughput to keep their kitchen running. So while we often receive complaints that the venue is [too][toosmall1] [small][toosmall2] for the size of the audience we attract, I can't imagine moving. And besides, we'd rather see more events than bigger ones.
+61 Local's focus on their community has made it easier for us to focus on ours. When their Internet buckled under the load of a hundred nerds, they installed FiOS and a new WiFi endpoint. When their kitchen strained under the load of a hundred mouths, they created a [custom branded menu][61menu] optimized for throughput to keep their kitchen running smoothly. So while we often receive complaints that the venue is [too][toosmall1] [small][toosmall2] for the size of the audience we attract, I can't imagine moving; we'd rather see more events than bigger ones.
 
 Talks
 -----
@@ -158,7 +158,7 @@ Coworking
 <img height=100 src="images/photos/coworking3.jpg">
 <img height=100 src="images/photos/coworking4.jpg">
 
-Five months into its existence in March 2014, BrooklynJS had neared its final form, but there was still one more thing to add. Even though we were packing a lively crowd of 100 people into a space designed for 60 all evening, that same space was empty for the rest of the day. So we struck a good deal with 61 Local where we got to use the space for the entire day, and they got to cater our lunch, and created [Boroughgramming][boroughgramming] (not to be confused with [Brogramming][brogrammer]).
+Five months into its existence in March 2014, BrooklynJS had neared its final form, but there was still one more thing to add. Even though we were packing a lively crowd of 100 people into a space designed for 60 all evening, that same space was empty for the rest of the day. So we struck a deal with 61 Local where we got to use the space for the entire day in exchange for them catering our lunch, and [Boroughgramming][boroughgramming] (not to be confused with [Brogramming][brogrammer]) was born.
 
 ```
                              + - - - - - - - - - - - - - - - - - - - +
@@ -443,9 +443,7 @@ For most of my time as a JavaScript developer, I've been a consumer of community
 
 Watching a community like the one we have in JavaScript in New York City has been my favorite part about moving here. Like many things in the city, I'm not sure how easy it would be to replicate elsewhere, due to the density and diversity unique to New York. So I'm not really confident when it comes to giving advice to folks interested in growing their own local tech communities.
 
-But there is one lesson I've learned from the past two years of helping build a successful community:
-
-**Mutual wins amplify effort.** In other words, building community became much easier wherever we found situations in which all actors had an ongoing incentive to participate. Here are some examples from my experience:
+But there is one lesson I've learned from the past two years of helping build a successful community: **Mutual wins amplify effort.** In other words, building community became much easier wherever we found situations in which all actors had an ongoing incentive to participate. Here are some examples from my experience:
 
 - It would have been financially safer to let a tech company host BrooklynJS, but because the venue we chose ([61 Local][61local]) has a direct financial incentive to accommodate us, they've helped us immeasurably in growing the event.
 

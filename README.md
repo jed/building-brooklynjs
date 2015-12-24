@@ -409,7 +409,7 @@ Siblings
 
 Though BrooklynJS helped reboot New York City's JavaScript community, it wasn't until its siblings arrived that things really started to get fun, as BrooklynJS regulars started to bring their own flavor to sibling events in their corners of the city:
 
-- [ManhattanJS][manhattanjs], by [Zahra][zeejab], [Brenda][brendamarienyc], and [Rushaine][copacetickid], on the 2nd Wednesday of the month. They opt for three longer-format talks of 20 minutes, the last of which is a passion presentation where JavaScripters talk about their non-code hobbies, from improvisational dance to making hot sauce. The event is currently hosted by [Digital Ocean][digitalocean] in Tribeca, with a post-game at [Toad Hall][toadhall].
+- [ManhattanJS][manhattanjs], by [Zahra][zeejab], [Brenda][brendamarienyc], and [Rushaine][copasetickid], on the 2nd Wednesday of the month. They opt for three longer-format talks of 20 minutes, the last of which is a passion presentation where JavaScripters talk about their non-code hobbies, from improvisational dance to making hot sauce. The event is currently hosted by [Digital Ocean][digitalocean] in Tribeca, with a post-game at [Toad Hall][toadhall].
 
 - [JerseyScript][jerseyscript], by [Jenn][jennschiffer], on the 4th Tuesday of the month. Jenn cuts to the chase and focuses on chilling with fellow developers in Jersey City, first among vintage video games at [Barcade][barcade], and then possibly over karaoke downstairs at [Porta][porta].
 
@@ -483,7 +483,7 @@ So while Brian and I tried our best to create an event worth attending, events a
 [budgetjs]: https://github.com/brooklynjs/brooklynjs.github.io/blob/master/budget.js
 [charmcityjs]: http://charmcityjs.com
 [chosentalks]: https://github.com/brooklynjs/brooklynjs.github.io/issues?q=label%3Aaccepted
-[copacetickid]: https://twitter.com/copacetickid
+[copasetickid]: https://twitter.com/copasetickid
 [cramforce]: https://twitter.com/cramforce
 [cssconfeu]: http://2013.cssconf.eu
 [cubo]: https://twitter.com/CuboNewYork521

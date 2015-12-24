@@ -532,7 +532,7 @@ So while Brian and I tried our best to create an event worth attending, events a
 [meyerweb]: https://twitter.com/meyerweb
 [mta]: http://www.mta.info/schedules
 [mtatoken]: http://web.mta.info/nyct/materiel/collectsales/pdfs/mc04044.pdf
-[nodebots]: http://nodebots.github.io/nodebots.nyc
+[nodebots]: http://nodebots.nyc
 [nolanbeverajs]: https://twitter.com/nolanlawson/status/634579495983423488
 [nycjs2010]: https://groups.google.com/forum/#!topic/nycjs/6IaHPoT6WhY
 [nycjs]: http://www.meetup.com/NYC-JS
@@ -548,7 +548,7 @@ So while Brian and I tried our best to create an event worth attending, events a
 [plaque]: https://gist.github.com/jed/c877d42e7d3dae86bc20
 [porta]: http://pizzaporta.com
 [portlandjs]: https://github.com/emily-plummer/portland_js
-[queensjs]: http://www.meetup.com/QueensJS
+[queensjs]: http://queensjs.com
 [radiomorillo]: https://twitter.com/radiomorillo
 [railsapp]: https://www.youtube.com/watch?v=0sgUgqPPxoo
 [ravenshead]: http://www.ravensheadpublichouse.com

@@ -413,7 +413,7 @@ Though BrooklynJS helped reboot New York City's JavaScript community, it wasn't 
 
 - [JerseyScript][jerseyscript], by [Jenn][jennschiffer], on the 4th Tuesday of the month. Jenn cuts to the chase and focuses on chilling with fellow developers in Jersey City, first among vintage video games at [Barcade][barcade], and then possibly over karaoke downstairs at [Porta][porta].
 
-- [QueensJS][queensjs], by [Sarah][opheliasdaisies] and [Daniel][dcousineau], on the 1st Wednesday of the month. QueensJS starts with an open buffet (get there early), followed by three 20-minute talks, one of which highlights a first-time speaker. The event takes place upstairs at [Raven's Head Public House][ravenshead] in Astoria, and has its own dedicated bartender.
+- [QueensJS][queensjs], by [Sara][opheliasdaisies] and [Daniel][dcousineau], on the 1st Wednesday of the month. QueensJS starts with an open buffet (get there early), followed by three 20-minute talks, one of which highlights a first-time speaker or junior developer. The event takes place upstairs at [Raven's Head Public House][ravenshead] in Astoria, and has its own dedicated bartender.
 
 Once QueensJS arrived, we created a loose umbrella organization called [BoroJS][borojs], which at the end of 2015 also welcomed [Nodebots NYC][nodebots] onboard. Having a community that clusters around multiple smaller events with their own focus and personality makes the New York City JavaScript ecosystem really dynamic, and probably has the added side benefit of making it harder to kill when an organizer burns out or leaves town.
 

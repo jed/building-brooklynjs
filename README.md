@@ -501,7 +501,7 @@ So while Brian and I tried our best to create an event worth attending, events a
 [helenhousandi]: https://twitter.com/helenhousandi
 [herndon]: http://www.herndon-va.gov
 [icann]: https://whois.icann.org/en/lookup?name=brooklynjs.com
-[indexhtml]: https://github.com/brooklynjs/brooklynjs.github.io/index.html
+[indexhtml]: https://github.com/brooklynjs/brooklynjs.github.io/blob/master/index.html
 [introcss]: https://www.youtube.com/watch?v=KKM71-YeJp8
 [janl]: https://twitter.com/janl
 [jashkenas]: https://twitter.com/jashkenas

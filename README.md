@@ -1,10 +1,10 @@
 Building BrooklynJS
 ===================
 
-<img height=100 src="images/photos/building1.jpg">
-<img height=100 src="images/photos/building2.jpg">
-<img height=100 src="images/photos/building3.jpg">
-<img height=100 src="images/photos/building4.jpg">
+<a href="#"><img height=100 src="images/photos/building1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/building2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/building3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/building4.jpg"></a>
 
 [BrooklynJS][brooklynjs] is a monthly JavaScript event that takes place in Brooklyn, New York. From its start in November 2013 until this was written in December 2015, BrooklynJS had showcased 102 speakers and 15 musical guests for thousands of attendees, who along with 45 sponsors helped raise over $36,000. It grew alongside a new community of JavaScripters that has become one of the most vibrant in the world.
 
@@ -13,10 +13,10 @@ This is [my][jedschmidt] story of how BrooklynJS came to be.
 Prologue
 --------
 
-<img height=100 src="images/photos/prologue1.jpg">
-<img height=100 src="images/photos/prologue2.jpg">
-<img height=100 src="images/photos/prologue3.jpg">
-<img height=100 src="images/photos/prologue4.jpg">
+<a href="#"><img height=100 src="images/photos/prologue1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/prologue2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/prologue3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/prologue4.jpg"></a>
 
 My BrooklynJS story begins in 10 timezones away in Tokyo, where I was living in 2013. My girlfriend's startup had decided to move their product team to New York City, so we packed up our stuff and moved to Brooklyn.
 
@@ -37,20 +37,20 @@ Each one felt a little like two months of summer camp compressed into a weekend,
 Origin
 ------
 
-<img height=100 src="images/photos/origin1.jpg">
-<img height=100 src="images/photos/origin2.jpg">
-<img height=100 src="images/photos/origin3.jpg">
-<img height=100 src="images/photos/origin4.jpg">
+<a href="#"><img height=100 src="images/photos/origin1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/origin2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/origin3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/origin4.jpg"></a>
 
 Along my conference travels over the summer, I kept bumping into [Brian J Brennan][brianloveswords], one of Brooklyn's finest humans, who also wanted to bring the feels of a JSConf-type event back home. By 2013, Brian and I had been to a lot of tech events, but only to attend or speak, and not to organize. Since organizing a big conference with the production value of those in the JSConf family seemed like more work than we wanted to take on, we hatched a plan to take the fun of a JSConf event, shrink it down to 8.33333-ish percent of its original size, and spread it across every month of the year. And since Brian and I lived a short walk away from each other, we decided to give our event a local feel and call it _BrooklynJS_. In November of 2013, Brian [registered the domain][icann], and I created [our riff][logo] on Chris William's [JS logo][logojs] and set up [a website][first commit] in the flavor of an [MTA schedule][mta].
 
 Venue
 -----
 
-<img height=100 src="images/photos/venue1.jpg">
-<img height=100 src="images/photos/venue2.jpg">
-<img height=100 src="images/photos/venue3.jpg">
-<img height=100 src="images/photos/venue4.jpg">
+<a href="#"><img height=100 src="images/photos/venue1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/venue2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/venue3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/venue4.jpg"></a>
 
 We looked at a few prospective venues, including a bootcamp code school and some startup offices, but settled on the [upstairs room][61upstairs] at [61 Local][61local], a pub in Cobble Hill down the street from my apartment. Though we didn't really know it at the time, choosing 61 Local was one of the best decisions we made. Not only did it help set us apart from the usual tech meetup ambiance of pizza and Coors under fluorescent lights, but it also freed us of the awkwardness of holding an event in a office of a tech company. Companies that host meetups see their role as somewhere between charity, in which venue availability can disappear at the first sign of a hiring freeze or more important event, and opportunism, in which recruiters use their captive audience to foist awkward pitches and boring in-house tech talks.
 
@@ -65,10 +65,10 @@ More specifically to our setup, 61 Local has been an incredible partner. From [t
 Talks
 -----
 
-<img height=100 src="images/photos/talks1.jpg">
-<img height=100 src="images/photos/talks2.jpg">
-<img height=100 src="images/photos/talks3.jpg">
-<img height=100 src="images/photos/talks4.jpg">
+<a href="#"><img height=100 src="images/photos/talks1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/talks2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/talks3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/talks4.jpg"></a>
 
 The core of a BrooklynJS event consists of five lightning talks of ten minutes each, preceded by an intro in which the emcees give some context for the event.
 
@@ -91,10 +91,10 @@ For talks that are not chosen, we give the speaker a code to buy a reserved tick
 Social
 ------
 
-<img height=100 src="images/photos/social1.jpg">
-<img height=100 src="images/photos/social2.jpg">
-<img height=100 src="images/photos/social3.jpg">
-<img height=100 src="images/photos/social4.jpg">
+<a href="#"><img height=100 src="images/photos/social1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/social2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/social3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/social4.jpg"></a>
 
 Another one of The Good Parts™ of a JSConf event that we wanted to emulate was the "hallway track", where attendees can interact informally outside of scheduled content. So again we took a cue from Chris Williams, and tacked a [beer.js][beerjs] to the end of our event.
 
@@ -121,10 +121,10 @@ Thankfully, resident pun expert [Willman Duffy][willmanduffy] [came up][willmanb
 Music
 -----
 
-<img height=100 src="images/photos/music1.jpg">
-<img height=100 src="images/photos/music2.jpg">
-<img height=100 src="images/photos/music3.jpg">
-<img height=100 src="images/photos/music4.jpg">
+<a href="#"><img height=100 src="images/photos/music1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/music2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/music3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/music4.jpg"></a>
 
 As any good web developer knows, the best way to keep users engaged is to minimize the time they spend waiting. The same is true of meetups, and critically so for ones with multiple talks straddled by minutes of the awkward dance of getting arbitrary slideshow software on arbitrary laptops to work with the venue's projector setup. In our case, a few minutes of downtime in each of six gaps between blocks could add up around 20 minutes, or two talks worth of time.
 
@@ -153,10 +153,10 @@ I think adding music to the event was the most effective thing we did to form ou
 Coworking
 ---------
 
-<img height=100 src="images/photos/coworking1.jpg">
-<img height=100 src="images/photos/coworking2.jpg">
-<img height=100 src="images/photos/coworking3.jpg">
-<img height=100 src="images/photos/coworking4.jpg">
+<a href="#"><img height=100 src="images/photos/coworking1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/coworking2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/coworking3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/coworking4.jpg"></a>
 
 Five months into its existence in March 2014, BrooklynJS had neared its final form, but there was still one more thing to add. Even though we were packing a lively crowd of 100 people into a space designed for 60 all evening, that same space was empty for the rest of the day. So we struck a deal with 61 Local where we got to use the space for the entire day in exchange for them catering our lunch, and [Boroughgramming][boroughgramming] (not to be confused with [Brogramming][brogrammer]) was born.
 
@@ -177,11 +177,11 @@ For me, Boroughgramming is where the BrooklynJS community really started to gel.
 Sponsees
 --------
 
-<img height=100 src="images/photos/sponsees1.jpg">
-<img height=100 src="images/photos/sponsees2.jpg">
-<img height=100 src="images/photos/sponsees3.jpg">
-<img height=100 src="images/photos/sponsees4.png">
-<img height=100 src="images/photos/sponsees5.jpg">
+<a href="#"><img height=100 src="images/photos/sponsees1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/sponsees2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/sponsees3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/sponsees4.png"></a>
+<a href="#"><img height=100 src="images/photos/sponsees5.jpg"></a>
 
 Like most community-run meetups, profit is not a goal of BrooklynJS. Since holding on to money we've made from tickets or sponsorships would just complicate my taxes, I want to get it off my books as soon as possible.
 
@@ -194,11 +194,11 @@ The ability to build a modestly reliable stream of contributions has also allowe
 Sponsors
 --------
 
-<img height=100 src="images/photos/sponsors1.jpg">
-<img height=100 src="images/photos/sponsors2.jpg">
-<img height=100 src="images/photos/sponsors3.jpg">
-<img height=100 src="images/photos/sponsors4.jpg">
-<img height=100 src="images/photos/sponsors5.jpg">
+<a href="#"><img height=100 src="images/photos/sponsors1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/sponsors2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/sponsors3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/sponsors4.jpg"></a>
+<a href="#"><img height=100 src="images/photos/sponsors5.jpg"></a>
 
 One of the unexpected effects of dedicating sponsorship to an amazing organization like ScriptEd is that it helped focus our efforts, by quantifying our impact. So, instead of simply aiming to break even, we started actively looking for opportunities to raise funds. Fortunately, the seller's job market in tech made that easier, as the value of web developer attention is at an all-time high.
 
@@ -254,8 +254,8 @@ The chore of wrangling sponsorships is equally important and unglamorous, but it
 Pricing
 -------
 
-<img height=100 src="images/photos/pricing1.jpg">
-<img height=100 src="images/photos/pricing2.jpg">
+<a href="#"><img height=100 src="images/photos/pricing1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/pricing2.jpg"></a>
 
 Since BrooklynJS started, how to distribute tickets has been a significant source of stress.
 
@@ -272,10 +272,10 @@ One clever hack we used to ensure that attendees understood the value behind the
 Tickets
 -------
 
-<img height=100 src="images/photos/tickets1.jpg">
-<img height=100 src="images/photos/tickets2.jpg">
-<img height=100 src="images/photos/tickets3.jpg">
-<img height=100 src="images/photos/tickets4.jpg">
+<a href="#"><img height=100 src="images/photos/tickets1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/tickets2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/tickets3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/tickets4.jpg"></a>
 
 A $15 ticket to BrooklynJS pretty much covers the cost of attendance. Since the very first BrooklynJS, attendees have had a choice: they can either redeem their ticket for a craft beer or other beverage at the bar, or keep it to pass that money on to ScriptEd.
 
@@ -402,10 +402,10 @@ Perhaps the most satisfying things about organizing BrooklynJS was to see speake
 Siblings
 --------
 
-<img height=100 src="images/photos/siblings1.jpg">
-<img height=100 src="images/photos/siblings2.jpg">
-<img height=100 src="images/photos/siblings3.jpg">
-<img height=100 src="images/photos/siblings4.jpg">
+<a href="#"><img height=100 src="images/photos/siblings1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/siblings2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/siblings3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/siblings4.jpg"></a>
 
 Though BrooklynJS helped reboot New York City's JavaScript community, it wasn't until its siblings arrived that things really started to get fun, as BrooklynJS regulars started to bring their own flavor to sibling events in their corners of the city:
 
@@ -424,11 +424,11 @@ So if you're looking to start an event in your neck of the woods and are looking
 Organizing
 ----------
 
-<img height=100 src="images/photos/organizing1.jpg">
-<img height=100 src="images/photos/organizing2.jpg">
-<img height=100 src="images/photos/organizing3.jpg">
-<img height=100 src="images/photos/organizing4.jpg">
-<img height=100 src="images/photos/organizing5.jpg">
+<a href="#"><img height=100 src="images/photos/organizing1.jpg"></a>
+<a href="#"><img height=100 src="images/photos/organizing2.jpg"></a>
+<a href="#"><img height=100 src="images/photos/organizing3.jpg"></a>
+<a href="#"><img height=100 src="images/photos/organizing4.jpg"></a>
+<a href="#"><img height=100 src="images/photos/organizing5.jpg"></a>
 
 From finances and ticketing to logistics and development, Brian and I put a lot of work into growing BrooklynJS, in aggregate likely close to that needed to run a conference. As BrooklynJS approached its first birthday, I was starting to feel a little burnt out, which was probably inevitable. I don't think anyone can create an event worth going to that runs itself on autopilot, and it's really hard being playing the roles of outgoing emcee and detail-oriented organizer at the same time.
 
@@ -453,7 +453,7 @@ But there is one lesson I've learned from the past two years of helping build a 
 
 So while Brian and I tried our best to create an event worth attending, events are by definition ephemeral. But by seeking mutually positive interactions among attendees, speakers, venues, and the rest of the actors by which events are built, we helped shape a community that will continue to exist long after BrooklynJS is swept up by the garbage collector.
 
-<img height=400 src="images/photos/reflection.jpg">
+<a href="#"><img height=400 src="images/photos/reflection.jpg"></a>
 
 [61events]: http://61local.com/events/month
 [61local]: http://www.61local.com
